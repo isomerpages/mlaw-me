@@ -1,10 +1,12 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
+  - title: About Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
+  - title: Enforcement Process
+    url: /enforcement-process/
+  - title: Resources
     collection: example-folder
-  - title: New folder
+  - title: Careers
     collection: example-folder
+  - title: New single page
+    url: /permalink
