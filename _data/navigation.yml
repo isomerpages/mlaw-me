@@ -1,12 +1,12 @@
-logo: /images/isomer-logo.svg
+logo: /images/MinLaw_logo.png
 links:
   - title: About Us
-    url: https://me.mlaw.gov.sg/about-meo/
+    url: /about-us/
   - title: Enforcement Process
     url: /enforcement-process/
   - title: Resources
     collection: example-folder
   - title: Careers
     collection: example-folder
-  - title: Contact Us
+  - title: Call or write to us
     url: https://www.mlaw.gov.sg/about-us/contact-us/
