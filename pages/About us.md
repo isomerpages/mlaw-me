@@ -1,6 +1,6 @@
 ---
 title: About us
-permalink: /about-us/
+permalink: /about-meo/
 variant: tiptap
 description: ""
 ---
