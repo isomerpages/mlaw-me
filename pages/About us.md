@@ -1,8 +1,8 @@
 ---
 title: About us
-permalink: /about-meo/
+permalink: /about-us/
 variant: tiptap
-description: ""
+description: About us
 ---
 <p>The Maintenance Enforcement Officer (MEO) plays a crucial role in ensuring
 the financial well-being of individuals involved in maintenance enforcement
