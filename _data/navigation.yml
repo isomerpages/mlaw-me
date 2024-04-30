@@ -10,3 +10,5 @@ links:
     collection: example-folder
   - title: Contact Us
     url: https://www.mlaw.gov.sg/about-us/contact-us/
+  - title: About us
+    collection: about-us
