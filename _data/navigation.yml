@@ -8,5 +8,7 @@ links:
     collection: example-folder
   - title: Careers
     collection: example-folder
+  - title: News
+    url: https://www.mlaw.gov.sg/news/
   - title: Call or write to us
     url: https://www.mlaw.gov.sg/about-us/contact-us/
