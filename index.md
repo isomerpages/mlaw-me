@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Maintenance Enforcement
       subtitle: Hero subtitle
-      background: /images/Cropped.png
+      background: /images/c8833016_8fb0_46b8_ba05_58b52427f4cd.jpg
       button: Contact Us
       url: https://go.gov.sg/contactminlaw
       key_highlights:
