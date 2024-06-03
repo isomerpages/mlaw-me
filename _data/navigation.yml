@@ -14,7 +14,7 @@ links:
     url: https://www.mlaw.gov.sg/about-us/contact-us/
   - title: E-Services
     collection: e-services
-  - title: New menu group
+  - title: E-Services
     url: /permalink
     sublinks:
       - title: New submenu
