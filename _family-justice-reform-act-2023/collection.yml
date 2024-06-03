@@ -2,4 +2,5 @@ collections:
   family-justice-reform-act-2023:
     output: true
     order:
+      - Brochures and forms.md
       - Family Justice Reform Act 2023 and Regulations.md
