@@ -1,9 +1,9 @@
 title: Maintenance Enforcement
-url: https://me.mlaw.gov.sg
+url: https://med.mlaw.gov.sg
 favicon: /images/MinLaw_logo.png
 colors:
-  primary-color: "#417505"
-  secondary-color: "#ac7943"
+  primary-color: "#2f5505"
+  secondary-color: "#975c28"
   media-colors:
     - title: media-color-one
       color: "#49759a"
@@ -56,3 +56,4 @@ shareicon: /images/isomer-logo.svg
 is_government: true
 google_analytics_ga4: ""
 linkedin-insights: ""
+resources_name: resources
