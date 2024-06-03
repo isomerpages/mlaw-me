@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Types of Maintenance Orders
 ---
-<h2>MAINTENANCE ORDERS UNDER THE MAINTENANCE OF PARENTS ACT 1995</h2>
-<h3>Order for the maintenance of parents</h3>
+<h3>MAINTENANCE ORDERS UNDER THE MAINTENANCE OF PARENTS ACT 1995</h3>
+<h4>Order for the maintenance of parents</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maintenance_of_parents.jpg">
 </div>
