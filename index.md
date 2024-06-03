@@ -13,7 +13,7 @@ sections:
       url: https://www.mlaw.gov.sg/about-us/contact-us/
       key_highlights:
         - title: Submission of documents to MEO
-          description: Important highlight A is important
+          description: ""
           url: https://go.gov.sg/maintenance
         - title: Applying for Enforcement of Maintenance Order in the Court
           description: ""
