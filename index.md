@@ -12,15 +12,15 @@ sections:
       button: Contact Us
       url: https://www.mlaw.gov.sg/about-us/contact-us/
       key_highlights:
+        - title: Brochures and forms
+          description: ""
+          url: /brochures-and-forms/
+        - title: Apply to the Court Enforcement of Maintenance Order
+          description: ""
+          url: https://ifams.gov.sg
         - title: Submission of documents to MEO
           description: ""
           url: https://go.gov.sg/maintenance
-        - title: Applying for Enforcement of Maintenance Order in the Court
-          description: ""
-          url: https://ifams.gov.sg
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
