@@ -15,3 +15,5 @@ links:
         url: https://go.gov.sg/maintenance
   - title: Careers
     url: https://www.careers.gov.sg/
+  - title: Resources
+    resource_room: true
