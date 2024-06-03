@@ -6,8 +6,6 @@ links:
     url: /enforcement-process/
   - title: Resources
     collection: example-folder
-  - title: Careers
-    collection: example-folder
   - title: News
     url: https://www.mlaw.gov.sg/news/
   - title: E-Services
@@ -17,5 +15,5 @@ links:
         url: https://go.gov.sg/maintenance
       - title: MED Portal (coming soon!)
         url: https://go.gov.sg/maintenance
-  - title: Call or write to us
-    url: https://www.mlaw.gov.sg/about-us/contact-us/
+  - title: Careers
+    url: https://www.careers.gov.sg/
