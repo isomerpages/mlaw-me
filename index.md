@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Maintenance Enforcement
       subtitle: Hero subtitle
-      background: /images/c8833016_8fb0_46b8_ba05_58b52427f4cd.jpg
+      background: /images/65176304_3a5e_4a57_a74e_169b75946986.jpg
       button: Contact Us
       url: https://www.mlaw.gov.sg/about-us/contact-us/
       key_highlights:
