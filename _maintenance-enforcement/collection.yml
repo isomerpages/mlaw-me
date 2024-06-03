@@ -1,4 +1,5 @@
 collections:
   maintenance-enforcement:
     output: true
-    order: []
+    order:
+      - Apply to Enforce Maintenance Orders.md
