@@ -2,8 +2,8 @@ collections:
   maintenance-enforcement:
     output: true
     order:
-      - Who is a Maintenance Enforcement Officer?.md
       - Types of Maintenance Orders.md
+      - Apply to Enforce Maintenance Orders.md
+      - Who is a Maintenance Enforcement Officer?.md
       - Process of a case referred to an MEO.md
       - How to file an arrears or updating report.md
-      - Apply to Enforce Maintenance Orders.md
