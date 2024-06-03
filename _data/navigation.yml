@@ -4,8 +4,6 @@ links:
     url: /about-us/
   - title: Maintenance Enforcement
     collection: maintenance-enforcement
-  - title: News
-    url: https://www.mlaw.gov.sg/news/
   - title: E-Services
     url: /permalink
     sublinks:
@@ -13,7 +11,9 @@ links:
         url: https://go.gov.sg/maintenance
       - title: MED Portal (coming soon!)
         url: https://go.gov.sg/maintenance
-  - title: Careers
-    url: https://www.careers.gov.sg/
   - title: Resources
     collection: family-justice-reform-act-2023
+  - title: News
+    url: https://www.mlaw.gov.sg/news/
+  - title: Careers
+    url: https://www.careers.gov.sg/
