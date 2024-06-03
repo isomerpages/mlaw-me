@@ -1,4 +1,5 @@
 collections:
   e-services:
     output: true
-    order: []
+    order:
+      - Submission of documents.md
