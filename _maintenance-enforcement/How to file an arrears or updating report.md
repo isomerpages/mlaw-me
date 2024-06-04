@@ -12,6 +12,5 @@ steps 1 to 7 for the Updating Report).</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Credit_Bureau_process.jpg">
 </div>
 <p></p>
-<p>Please click <strong>here</strong> to download Form 1 (Arrears Report)</p>
-<p></p>
-<p>Please click <strong>here</strong> to download Form 2 (Updating Report)</p>
+<p>Please obtain Form 1 (Arrears Report) or Form 2 (Updating Report) from
+the Credit Bureau Singapore.</p>
