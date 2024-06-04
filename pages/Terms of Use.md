@@ -27,6 +27,7 @@ constitute your agreement to the modified Terms of Use and all of the changes.</
 <p>iv. References to “the Digital Service” in these Terms of Use shall include
 the Digital Service in its entirety as well as its individual pages, and
 shall include any services offered by MLAW on the Digital Service.</p>
+<p></p>
 </li>
 <li>
 <p><strong>Access to the Digital Service</strong>
@@ -48,6 +49,7 @@ These additional terms and conditions shall be brought to your attention
 at the time of your transaction, and by carrying out your transaction you
 shall be deemed to have accepted and agreed to be legally bound by the
 additional terms and conditions.</p>
+<p></p>
 </li>
 <li>
 <p><strong>Reliance on Information on the Digital Service</strong>
@@ -61,6 +63,7 @@ particular issue.</p>
 <p>ii. MLAW may modify or discontinue any information or features that form
 part of the Digital Service at any time, with or without notice to you,
 and without liability.</p>
+<p></p>
 </li>
 <li>
 <p><strong>Security</strong>
@@ -87,6 +90,7 @@ therein.</p>
 <p>vi. For infocomm security best practices and tips, you may wish to visit
 <a href="https://www.gosafeonline.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.gosafeonline.sg</u>
 </a>.</p>
+<p></p>
 </li>
 <li>
 <p><strong>Links to this Digital Service</strong>
@@ -140,6 +144,7 @@ property, proprietary, privacy or publicity rights.</p>
 <p>MLAW reserves the right to disable any unauthorised links or frames to
 the Digital Service and disclaims any responsibility for the content available
 on any other Digital Service reached by links to or from this Digital Service.</p>
+<p></p>
 </li>
 </ul>
 </li>
@@ -159,12 +164,14 @@ be sought by sending a request through this link.</p>
 licences, permits and registrations on the Digital Service. You may also
 print out, and copy portions of the text in accordance with the provisions
 of the Copyright Act.</p>
+<p></p>
 </li>
 <li>
 <p><strong>Privacy Policy</strong>
 </p>
 <p>i. Please <a href="https://staging-isomer-mlaw.netlify.com/privacy/" rel="noopener noreferrer nofollow" target="_blank"><u>click here</u></a> to
-review the Digital Service’s Privacy Statement. .</p>
+review the Digital Service’s Privacy Statement.</p>
+<p></p>
 </li>
 <li>
 <p><strong>Disclaimers and Limitation of Liability</strong>
@@ -227,6 +234,7 @@ at the Digital Service or obtains any information obtained directly or
 indirectly through the Digital Service, regardless of whether MLAW has
 been advised of the possibility of such damages, loss, compensation, penalty,
 expenses or costs.</p>
+<p></p>
 </li>
 </ul>
 </li>
