@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Maintenance Enforcement Division, a division of the Insolvency & Public
-  Trustee's Office, Ministry of Law
+  Trustee's Office
 description: Office of the Maintenance Enforcement Officers
 image: /images/isomer-logo.svg
 permalink: /
