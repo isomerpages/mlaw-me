@@ -9,12 +9,12 @@ description: ""
 <li>
 <p><strong>Agreement</strong>
 </p>
-<p>i. Thank you for visiting <a href="https://www.gosafeonline.sg/" rel="noopener noreferrer nofollow" target="_blank">MLAW.GOV.SG/MINLAW.GOV.SG</a>, the
-official digital service of the Ministry of Law of the Republic of Singapore,
-and any applications or services related to or linked to or from this digital
-service (henceforth collectively known as <strong>“the Digital Service”</strong>).
-The digital service is owned and operated by the Government of the Republic
-of Singapore c/o the Ministry of Law (<strong>“MLAW”</strong>).</p>
+<p>i. Thank you for visiting <a href="https://www.mlaw.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mlaw.gov.sg</a>, the official digital service
+of the Ministry of Law of the Republic of Singapore, and any applications
+or services related to or linked to or from this digital service (henceforth
+collectively known as <strong>“the Digital Service”</strong>). The digital
+service is owned and operated by the Government of the Republic of Singapore
+c/o the Ministry of Law (<strong>“MLAW”</strong>).</p>
 <p>ii. Access to the Digital Service is governed by the terms and conditions
 of use as stated below (<strong>“Terms of Use”</strong>). By accessing
 and using the Digital Service, you shall be deemed to have accepted and
