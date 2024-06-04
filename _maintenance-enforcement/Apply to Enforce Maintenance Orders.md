@@ -13,7 +13,7 @@ order</p>
 <p>Step 4: Select the appropriate category and proceed with the application
 in accordance with the instructions on screen.</p>
 <p></p>
-<h3>Who can apply to enforce maintenance orders?</h3>
+<h3><u>Who</u> can apply to enforce maintenance orders?</h3>
 <p></p>
 <h4>Women's Charter 1961</h4>
 <p>Wife, incapacitated husband, guardian or person who has actual custody
@@ -21,4 +21,14 @@ of child. Please refer to <a href="/women-s-charter-1961/" rel="noopener norefer
 <p></p>
 <h4>Administration of Muslim Law Act 1966</h4>
 <p>Married woman, woman who has been divorced, any party (for the enforcement
-of maintenance order of child). Please refer to this page.</p>
+of maintenance order of child). Please refer to <a href="/administration-of-muslim-law-act-1966/" rel="noopener noreferrer nofollow" target="_blank">this page</a>.</p>
+<p></p>
+<h4>Maintenance of Parents Act 1995</h4>
+<p>(a) Any person domiciled and resident in Singapore who is of or above
+60 years of age and is unable to maintain himself / herself adequtely;</p>
+<p>(b) An approved person or organisation in whose care a parent resides;
+or</p>
+<p>(c) The Commissioner may make an application on behalf of an applicant
+of or above 60 years of age (whether the applicant is able to do so).</p>
+<p>Please refer to this page.</p>
+<p></p>
