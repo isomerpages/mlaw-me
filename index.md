@@ -5,7 +5,7 @@ title: Maintenance Enforcement Division, a division of the Insolvency & Public
 description: Office of the Maintenance Enforcement Officers
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Maintenance Enforcement
