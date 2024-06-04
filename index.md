@@ -9,7 +9,7 @@ notification: ""
 sections:
   - hero:
       title: Maintenance Enforcement
-      background: /images/65176304_3a5e_4a57_a74e_169b75946986.jpg
+      background: /images/School_bus.jpg
       button: Contact Us
       url: https://www.mlaw.gov.sg/about-us/contact-us/
       key_highlights:
