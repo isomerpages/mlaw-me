@@ -27,19 +27,19 @@ of the digital service.</p>
 <p></p>
 </li>
 <li>
-<p>If you provide us with personally identifiable data</p>
+<p>If you provide us with personally identifiable data :</p>
 <p></p>
-<p>a. Where approriate, we may share necessary data with other Government
+<p>(a) where approriate, we may share necessary data with other Government
 agencies, so as to improve the discharge of public functions, and to serve
 you in the most efficient and effective way unless such sharing is prohibited
-by law.</p>
+by law;</p>
 <p></p>
-<p>b. We will NOT share your personal data with non-Government entities,
+<p>(b) we will NOT share your personal data with non-Government entities,
 except where such entities have been authorised to carry out specific Government
-services.</p>
+services;</p>
 <p></p>
-<p>c. For your convenience, we may also display to you data you had previously
-supplied us or other Government Agencies. This will speed up the transaction
+<p>(c) for your convenience, we may also display to you, data you had previously
+supplied us or other Government Agencies as this will speed up the transaction
 and save you the trouble of repeating previous submissions. Should the
 data be out-of-date, please supply us the latest data.</p>
 <p></p>
