@@ -4,7 +4,7 @@ url: https://med.mlaw.gov.sg
 favicon: /images/MinLaw_logo.png
 colors:
   primary-color: "#2f5505"
-  secondary-color: "#975c28"
+  secondary-color: "#dbcc1c"
   media-colors:
     - title: media-color-one
       color: "#49759a"
