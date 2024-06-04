@@ -14,7 +14,11 @@ order</p>
 in accordance with the instructions on screen.</p>
 <p></p>
 <h3>Who can apply to enforce maintenance orders?</h3>
+<p></p>
 <h4>Women's Charter 1961</h4>
 <p>Wife, incapacitated husband, guardian or person who has actual custody
-of child. Please refer to <a href="/women-s-charter-1961/" rel="noopener noreferrer nofollow" target="_blank">this page.</a>
-</p>
+of child. Please refer to <a href="/women-s-charter-1961/" rel="noopener noreferrer nofollow" target="_blank">this page</a>.</p>
+<p></p>
+<h4>Administration of Muslim Law Act 1966</h4>
+<p>Married woman, woman who has been divorced, any party (for the enforcement
+of maintenance order of child). Please refer to this page.</p>
