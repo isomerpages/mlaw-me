@@ -45,4 +45,3 @@ amicable and lasting solutions.</p>
 <p>FJC Judges will&nbsp;have better insight on the parties’ financial circumstances,
 and be able to make more targeted enforcement orders. They will also have
 powers to deal more decisively with those who refuse to pay maintenance.</p>
-<p></p>
