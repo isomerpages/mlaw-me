@@ -28,8 +28,8 @@ consent of all trustees must be obtained.</p>
 <p>3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 The person nominated by the appointed person<sup>#</sup> to receive payment
 under the maintenance order.</p>
-<p>#where the maintenance order was applied for by the person appointed by
-the Minister.</p>
+<p><sup>#</sup>where the maintenance order was applied for by the person
+appointed by the Minister.</p>
 <p>4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Any other person who has a right under any other written law to enforce
 the maintenance order.</p>
