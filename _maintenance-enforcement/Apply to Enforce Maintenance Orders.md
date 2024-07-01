@@ -15,26 +15,23 @@ in accordance with the instructions on screen.</p>
 <p></p>
 <h3><u>Who</u> can apply to enforce maintenance orders?</h3>
 <p></p>
-<h4>Women's Charter 1961</h4>
-<p>Wife, incapacitated husband, guardian or person who has actual custody
-of child. Please refer to <a href="/women-s-charter-1961/" rel="noopener noreferrer nofollow" target="_blank">this page</a>.</p>
-<p></p>
-<h4>Administration of Muslim Law Act 1966</h4>
-<p>Married woman, woman who has been divorced, any party (for the enforcement
-of maintenance order of child). Please refer to <a href="/administration-of-muslim-law-act-1966/" rel="noopener noreferrer nofollow" target="_blank">this page</a>.</p>
-<p></p>
-<h4>Maintenance of Parents Act 1995</h4>
-<p>(a) Any person domiciled and resident in Singapore who is of or above
-60 years of age and is unable to maintain himself / herself adequtely;</p>
-<p>(b) An approved person or organisation in whose care a parent resides;
+<p>1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The person who applied for the maintenance order.</p>
+<p>2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+A person who is a payee under the maintenance order for the benefit of
+a child, and who is:</p>
+<p>(a)&nbsp;&nbsp;&nbsp; having custody or care and control of the child;
 or</p>
-<p>(c) The Commissioner may make an application on behalf of an applicant
-of or above 60 years of age (whether the applicant is able to do so).</p>
-<p>Please refer to <a href="/maintenance-of-parents-act-1995/" rel="noopener noreferrer nofollow" target="_blank">this page</a>.</p>
+<p>(b)&nbsp;&nbsp;&nbsp; a trustee* of the child.</p>
+<p>*If the person is a trustee of a child jointly with one or more persons,
+consent of all trustees must be obtained.</p>
+<p>3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The person nominated by the appointed person<sup>#</sup> to receive payment
+under the maintenance order.</p>
+<p>#where the maintenance order was applied for by the person appointed by
+the Minister.</p>
+<p>4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Any other person who has a right under any other written law to enforce
+the maintenance order.</p>
+<h4></h4>
 <p></p>
-<h4>Guardianship of Infants Act 1934</h4>
-<p>Either parent, any guardian, testamentary guardian or an of the guardians.
-Please refer <a href="/guardianship-of-infants-act-1934/" rel="noopener noreferrer nofollow" target="_blank">this page</a>.</p>
-<p></p>
-<h4>Maintenance Orders (Reciprocal Enforcement) Act 1975</h4>
-<p>Please refer to <a href="/maintenance-orders-reciprocal-enforcement-act-1975/" rel="noopener noreferrer nofollow" target="_blank">this page</a>.</p>
