@@ -12,5 +12,5 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide2_for_web.jpg">
 </div>
-<h4>A printable version is available here.</h4>
+<h4>A printable version is available <a href="/files/Process_of_a_case_referred_to_an_MEO.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</h4>
 <p></p>
