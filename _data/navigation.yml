@@ -7,8 +7,8 @@ links:
   - title: E-Services
     url: /permalink
     sublinks:
-      - title: MED Portal (coming soon!)
-        url: https://go.gov.sg/maintenance
+      - title: MED Portal
+        url: https://eservices.mlaw.gov.sg/stream
   - title: Resources
     collection: family-justice-reform-act-2023
   - title: News
