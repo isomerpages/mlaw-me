@@ -1,8 +1,6 @@
 logo: /images/MinLaw_logo.png
 links:
   - title: About Us
-    collection: about-us
-  - title: About Us
     url: /about-us/
   - title: Maintenance Enforcement
     collection: maintenance-enforcement
