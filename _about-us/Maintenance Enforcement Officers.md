@@ -6,7 +6,7 @@ description: ""
 ---
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Minister for Law has appointed Mr Ng
 Yong Kiat Francis to be the chief maintenance enforcement officer with
-effect from [date].</p>
+effect from 2 January 2025.</p>
 <p></p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In addition, Minister for Law has appointed
 the following officers as maintenance enforcement officers with effect
