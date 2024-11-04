@@ -18,7 +18,7 @@ sections:
           url: https://ifams.gov.sg
         - title: SUBMIT DOCUMENTS TO MEO
           description: ""
-          url: https://go.gov.sg/maintenance
+          url: https://go.gov.sg/med
         - title: Brochures and forms
           description: ""
           url: /brochures-and-forms/
