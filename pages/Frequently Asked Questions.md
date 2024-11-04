@@ -117,14 +117,13 @@ local toll-free numbers. For overseas numbers, please call +65 6225 5529.&nbsp;<
 <p><strong>How can I submit my documents to the MEO?</strong>&nbsp;</p>
 </li>
 </ol>
-<p>Please submit documents through &lt;&lt;MED’s Internet portal URL&gt;&gt;(to
-be set-up when internet portal is ready). Should you have any problems
-with the documents submission, please contact the Maintenance Enforcement
-Officer through <a href="https://www.judiciary.gov.sg/family/apply-enforce-vary-maintenance-order" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/contactminlaw</u></a>,
+<p>Please submit documents through <a href="https://go.gov.sg/med" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/med</a>. Should you have
+any problems with the documents submission, please contact the Maintenance
+Enforcement Officer through <a href="https://www.judiciary.gov.sg/family/apply-enforce-vary-maintenance-order" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/contactminlaw</u></a>,
 or call 1800-2255-529*&nbsp;&nbsp;&nbsp;</p>
 <p></p>
 <p>*Airtime charges may apply to calls made from mobile phones to ‘1800’
-local toll-free numbers. For overseas numbers, please call +65 6225 5529.&nbsp;</p>
+local toll-free numbers. For overseas callers, please call +65 6225 5529.&nbsp;</p>
 <p></p>
 <ol start="10">
 <li>
