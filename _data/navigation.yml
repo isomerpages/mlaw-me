@@ -2,13 +2,18 @@ logo: /images/MinLaw_logo.png
 links:
   - title: About Us
     url: /about-us/
-  - title: Enforcement Process
-    url: /enforcement-process/
+  - title: Maintenance Enforcement
+    collection: maintenance-enforcement
+  - title: E-Services
+    url: /permalink
+    sublinks:
+      - title: MED Portal
+        url: https://eservices.mlaw.gov.sg/stream
   - title: Resources
-    collection: example-folder
-  - title: Careers
-    collection: example-folder
+    collection: family-justice-reform-act-2023
   - title: News
     url: https://www.mlaw.gov.sg/news/
-  - title: Call or write to us
-    url: https://www.mlaw.gov.sg/about-us/contact-us/
+  - title: Careers
+    url: https://www.careers.gov.sg/
+  - title: FAQ
+    url: /frequently-asked-questions/

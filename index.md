@@ -1,31 +1,25 @@
 ---
 layout: homepage
-title: Maintenance Enforcement
+title: Maintenance Enforcement Division, a division of the Insolvency & Public
+  Trustee's Office
 description: Office of the Maintenance Enforcement Officers
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Maintenance Enforcement
-      subtitle: Hero subtitle
-      background: /images/c8833016_8fb0_46b8_ba05_58b52427f4cd.jpg
+      background: /images/Background_2.png
       button: Contact Us
       url: https://www.mlaw.gov.sg/about-us/contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+        - title: APPLY TO ENFORCE YOUR MAINTENANCE ORDER
+          description: ""
+          url: https://ifams.gov.sg
+        - title: SUBMIT DOCUMENTS TO MEO
+          description: ""
+          url: https://go.gov.sg/med
+        - title: Brochures and forms
+          description: ""
+          url: /brochures-and-forms/
 ---
