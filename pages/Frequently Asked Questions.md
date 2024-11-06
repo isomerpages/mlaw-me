@@ -203,9 +203,6 @@ bankrupt. If the Respondent does not submit these documents to the Maintenance
 Enforcement Officer, the Maintenance Enforcement Officer will conduct fact-finding
 to obtain the information from the Official Assignee.&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maintenance_of_parents.jpg">
-</div>
+<p>&nbsp;</p><a class="isomer-image-wrapper" href="/Reciprocal.jpg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maintenance_of_parents.jpg"></a>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
