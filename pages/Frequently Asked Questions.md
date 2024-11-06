@@ -15,8 +15,74 @@ description: ""
 Please refer to <a href="https://www.judiciary.gov.sg/family/apply-enforce-vary-maintenance-order" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.judiciary.gov.sg/family/apply-enforce-vary-maintenance-order</u></a> for
 more details.&nbsp;</p>
 <p></p>
-<p>Secondly, the fee payable by the Respondent, to the Ministry of Law, is
-&lt;&lt;pending&gt;&gt;.&nbsp;</p>
+<p>Secondly, the fees payable by the Respondent, to the Ministry of Law,
+are:</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>S/N</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Transaction type</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Fee (including 9% GST)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Management of case file and preparation of Maintenance Enforcement Officer's
+("MEO") report.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1,591.40</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MEOs' obtaining of information from third parties.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$119.90</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Review documents and update MEO's report, prior to second conciliation.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$119.90</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Conduct of conciliation session.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$179.85</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <ol start="2">
 <li>
@@ -138,5 +204,8 @@ Enforcement Officer, the Maintenance Enforcement Officer will conduct fact-findi
 to obtain the information from the Official Assignee.&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maintenance_of_parents.jpg">
+</div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
