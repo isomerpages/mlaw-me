@@ -4,6 +4,12 @@ permalink: /apply-to-enforce-maintenance-orders/
 variant: tiptap
 description: ""
 ---
+<p>During the initial phase of implementation, the Family Justice Courts
+will refer repeat maintenance enforcement applications to the MEOs so that
+those who have had to apply repeatedly to enforce maintenance orders can
+benefit from the new MEP first. All maintenance enforcement applications
+will be referred to MEOs in the next phase of implementation.&nbsp;&nbsp;&nbsp;</p>
+<p></p>
 <h3>How to apply to enforce a maintenance order</h3>
 <p>Step 1 : visit <a href="https://ifams.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://ifams.gov.sg</a>
 </p>
