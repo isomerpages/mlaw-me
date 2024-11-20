@@ -32,7 +32,9 @@ Charter.</p>
 <p></p>
 <p><strong>Q3. What is the process for applying for an injunction under section 139M(1)(b) of the Women’s Charter?</strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Impending_Injunction_flowchart.jpg">
+</div>
 <p>(1) <strong>Filing an injunction application without notifying the Respondent</strong> -
 You can file for an injunction application without needing to inform the
 Respondent about the application. This is so that the Respondent will not
