@@ -185,7 +185,7 @@ or call 1800-2255-529*&nbsp;</p>
 <p>*Airtime charges may apply to calls made from mobile phones to ‘1800’
 local toll-free numbers. For overseas numbers, please call +65 6225 5529.</p>
 <p></p>
-<p><strong>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What happens if the Respondent is in the Debt Repayment Scheme or an undischarged bankrupt?</strong>
+<p><strong>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What happens if the Respondent is in the Debt Repayment Scheme or an undischarged bankrupt?</strong>
 </p>
 <p></p>
 <p>The Respondent will be directed by the Family Justice Courts to provide
@@ -195,7 +195,7 @@ bankrupt. If the Respondent does not submit these documents to the Maintenance
 Enforcement Officer, the Maintenance Enforcement Officer will conduct fact-finding
 to obtain the information from the Official Assignee.</p>
 <p></p>
-<p><strong>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What can I do if the Respondent intends to dispose?</strong>
+<p><strong>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What can I do if the Respondent intends to dispose?</strong>
 </p>
 <p></p>
 <p>Please answer “<strong>No</strong>” to the question “<em>Will you be able to communicate in English in Court?</em>”
@@ -203,7 +203,7 @@ in the enforcement application submitted through <a rel="noopener noreferrer nof
 We will arrange for the conciliation to be conducted in your preferred
 language.</p>
 <p></p>
-<p><strong>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What if the Respondent has been transferring away his assets in order to avoid paying maintenance?</strong>
+<p><strong>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What if the Respondent has been transferring away his assets in order to avoid paying maintenance?</strong>
 </p>
 <p></p>
 <p>Pursuant to section 139M(1)(a) of the Women’s Charter 1961, the court
@@ -222,6 +222,4 @@ is satisfied that <em>A</em> is making the disposition with the object on
 the part of <em>A</em> to produce the relevant consequence.</p>
 <p></p>
 <p>Please refer to this page for more details.&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
