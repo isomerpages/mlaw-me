@@ -221,5 +221,6 @@ of property by a person (called in this section <em>A</em>) — if the court
 is satisfied that <em>A</em> is making the disposition with the object on
 the part of <em>A</em> to produce the relevant consequence.</p>
 <p></p>
-<p>Please refer to this page for more details.&nbsp;</p>
+<p>Please refer to <a href="/impending-disposition-of-property/" rel="noopener nofollow" target="_blank">this page</a> for
+more details.&nbsp;</p>
 <p></p>
