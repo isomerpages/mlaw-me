@@ -20,7 +20,7 @@ or any other transfer of property rights.</p>
 <p>The MEO’s interim report has identified that the Respondent may be intending
 to dispose a property that he or she currently owns or control.</p>
 <p></p>
-<p><strong>Q2. What can you do to prevent the Respondent’s impending disposition of property? </strong>
+<p><strong>Q2. What can you do to prevent the Respondent’s impending disposition of property?</strong>
 </p>
 <p></p>
 <p>You can apply to the Family Justice Courts (“FJC”) for a court order to
