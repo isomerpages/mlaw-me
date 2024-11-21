@@ -8,9 +8,6 @@ third_nav_title: Types of Maintenance Orders
 <h3>PART 8 OF THE WOMEN'S CHARTER 1961</h3>
 <h4>Monthly or lump sum maintenance for a wife, an incapacitated husband or a child</h4>
 <p></p>
-<p></p>
-<p><a href="/files/Conciliation_Session_training_slides.pdf" rel="noopener nofollow" target="_blank">file</a>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Women_s_Charter_Part_8.jpg">
 </div>
