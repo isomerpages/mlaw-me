@@ -4,13 +4,29 @@ permalink: /apply-to-enforce-maintenance-orders/
 variant: tiptap
 description: ""
 ---
-<p>During the initial phase of implementation, the Family Justice Courts
-will refer repeat maintenance enforcement applications to the MEOs so that
-those who have had to apply repeatedly to enforce maintenance orders can
-benefit from the new MEP first. All maintenance enforcement applications
-will be referred to MEOs in the next phase of implementation.&nbsp;&nbsp;&nbsp;</p>
+<h3>What maintenance orders does the Maintenance Enforcement Process ("MEP") apply to?</h3>
 <p></p>
-<h3>How to apply to enforce a maintenance order</h3>
+<p>During the initial phase of implementation, the Family Justice Courts
+will refer repeat maintenance enforcement applications to the Maintenance
+Enforcement Officers ("MEO") so that those who have had to apply repeatedly
+to enforce maintenance orders can benefit from the new MEP first. All maintenance
+enforcement applications will be referred to MEOs in the next phase of
+implementation.&nbsp;&nbsp;&nbsp;</p>
+<p></p>
+<p>The MEP does not apply to enforcement of maintenance orders under the
+Maintenance Orders (Reciprocal Enforcement) Act 1975 which are:</p>
+<p></p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Maintenance orders made in Singapore to be enforced in a reciprocating
+country; and</p>
+</li>
+<li>
+<p>Maintenance orders made in reciprocating countries to be enforced in Singapore.</p>
+</li>
+</ol>
+<h3>How to apply to enforce a maintenance order?</h3>
+<p></p>
 <p>Step 1 : visit <a href="https://ifams.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://ifams.gov.sg</a>
 </p>
 <p>Step 2: Select "Maintenance Order Application"</p>
