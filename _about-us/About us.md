@@ -19,10 +19,6 @@ of obtaining maintenance is easier.</p>
 <p>b) facilitate more sustainable maintenance outcomes; and&nbsp;&nbsp;</p>
 <p>c) make the enforcement process easier when maintenance is not paid.&nbsp;</p>
 <p></p>
-<p>As part of the new MEP, the Ministry of Law established the Maintenance
-Enforcement Division within the Insolvency and Public Trustee’s Office
-which will be staffed by Maintenance Enforcement Officers (“MEOs”).&nbsp;&nbsp;</p>
-<p></p>
 <p>The key functions of the MEOs include: &nbsp;</p>
 <p></p>
 <p>a) <strong>Fact-finding on Financial Circumstances</strong>: MEOs are empowered
