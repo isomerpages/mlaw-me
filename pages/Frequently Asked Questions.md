@@ -195,13 +195,17 @@ bankrupt. If the Respondent does not submit these documents to the Maintenance
 Enforcement Officer, the Maintenance Enforcement Officer will conduct fact-finding
 to obtain the information from the Official Assignee.</p>
 <p></p>
-<p><strong>12.&nbsp;What can I do if the Respondent intends to dispose?</strong>
+<p><strong>12.&nbsp;What can I do if the Respondent <em>intends</em> to dispose his assets in order to avoid paying maintenance?</strong>
 </p>
 <p></p>
-<p>Please answer “<strong>No</strong>” to the question “<em>Will you be able to communicate in English in Court?</em>”
-in the enforcement application submitted through <a rel="noopener noreferrer nofollow" target="_blank">https://ifams.gov.sg</a>.
-We will arrange for the conciliation to be conducted in your preferred
-language.</p>
+<p>Pursuant to section 139M(1)(b) of the Women’s Charter 1961, the court
+has the power on application to grant an injunction preventing any disposition
+of property by a person (called in this section <em>A</em>) — if the court
+is satisfied that <em>A</em> is making the disposition with the object on
+the part of <em>A</em> to produce the relevant consequence.</p>
+<p></p>
+<p>Please refer to <a href="/impending-disposition-of-property/" rel="noopener nofollow" target="_blank">this page</a> for
+more details.&nbsp;</p>
 <p></p>
 <p><strong>13.&nbsp;What if the Respondent has been transferring away his assets in order to avoid paying maintenance?</strong>
 </p>
@@ -216,12 +220,5 @@ object on the part of <em>A</em> to produce the relevant consequence.</p>
 <p>Please refer to <a href="/disposition-of-property/" rel="noopener nofollow" target="_blank">this page</a> for
 more details.</p>
 <p></p>
-<p>Pursuant to section 139M(1)(b) of the Women’s Charter 1961, the court
-has the power on application to grant an injunction preventing any disposition
-of property by a person (called in this section <em>A</em>) — if the court
-is satisfied that <em>A</em> is making the disposition with the object on
-the part of <em>A</em> to produce the relevant consequence.</p>
 <p></p>
-<p>Please refer to <a href="/impending-disposition-of-property/" rel="noopener nofollow" target="_blank">this page</a> for
-more details.&nbsp;</p>
 <p></p>
