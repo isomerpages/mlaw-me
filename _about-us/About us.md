@@ -37,9 +37,4 @@ amicable and practical solutions to maintenance enforcement applications.&nbsp;<
 the information gathered to the court which will enable the court to make
 more targeted and effective enforcement orders.&nbsp;&nbsp;&nbsp;</p>
 <p></p>
-<p>During the initial phase of implementation, the Family Justice Courts
-will refer repeat maintenance enforcement applications to the MEOs so that
-those who have had to apply repeatedly to enforce maintenance orders can
-benefit from the new MEP first. All maintenance enforcement applications
-will be referred to MEOs in the next phase of implementation.&nbsp;&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
