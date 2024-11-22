@@ -8,9 +8,9 @@ description: ""
 <p></p>
 <p>(Click on the image to view a larger version)</p>
 <p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/webimage4"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide1.jpg"></a>
-<div class="isomer-image-wrapper">
+<a class="isomer-image-wrapper" href="https://go.gov.sg/webimage4">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide2_for_web.jpg">
-</div>
+</a>
 <blockquote>
 <h4></h4>
 </blockquote>
