@@ -5,7 +5,11 @@ title: Maintenance Enforcement Division, a division of the Insolvency & Public
 description: Office of the Maintenance Enforcement Officers
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: During the initial phase of implementation, the Family Justice
+  Courts will refer repeat maintenance enforcement applications to the MEOs so
+  that those who have had to apply repeatedly to enforce maintenance orders can
+  benefit from the new MEP first. All maintenance enforcement applications will
+  be referred to MEOs in the next phase of implementation.
 sections:
   - hero:
       title: Maintenance Enforcement
