@@ -5,6 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Types of Maintenance Orders
 ---
+<h3>CONTENTS</h3>
+<p></p>
 <h4>Women's Charter 1961</h4>
 <p></p>
 <p><em>An Act to provide for monogamous marriages and for the solemnisation and registration of such marriages; to amend and consolidate the law relating to divorce, the rights and duties of married persons, the protection of family, the maintenance of wives, incapacitated husbands and children and the punishment of offences against women and girls; and to provide for matters incidental thereto.</em>
