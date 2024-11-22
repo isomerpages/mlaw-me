@@ -2,11 +2,11 @@ collections:
   maintenance-enforcement:
     output: true
     order:
+      - Types of Maintenance Orders/.keep
+      - Types of Maintenance Orders/Contents.md
       - Types of Maintenance Orders/Women's Charter 1961.md
+      - Types of Maintenance Orders/Administration of Muslim Law Act 1966.md
       - Types of Maintenance Orders/Maintenance of Parents Act 1995.md
       - Types of Maintenance Orders/Guardianship of Infants Act 1934.md
-      - Types of Maintenance Orders/Administration of Muslim Law Act 1966.md
-      - Types of Maintenance Orders/Contents.md
-      - Types of Maintenance Orders/.keep
       - Apply to Enforce Maintenance Orders.md
       - Process of a case referred to an MEO.md
