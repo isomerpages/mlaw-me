@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Types of Maintenance Orders/.keep
-      - Types of Maintenance Orders/Guardianship of Infants Act 1934.md
       - Types of Maintenance Orders/Maintenance Orders (Reciprocal Enforcement)
         Act 1975.md
       - Apply to Enforce Maintenance Orders.md
