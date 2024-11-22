@@ -2,6 +2,7 @@ collections:
   maintenance-enforcement:
     output: true
     order:
+      - Types of Maintenance Orders/Administration of Muslim Law Act 1966.md
       - Types of Maintenance Orders/Contents.md
       - Types of Maintenance Orders/.keep
       - Apply to Enforce Maintenance Orders.md
