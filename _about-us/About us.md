@@ -30,8 +30,8 @@ banks and government agencies, if necessary.&nbsp;</p>
 suitable and needy parties and refer them to relevant financial assistance.&nbsp;</p>
 <p></p>
 <p>c) <strong>Conciliation Sessions</strong>: MEOs will conduct conciliation
-sessions and facilitate settlement between parties, with a view to promote
-amicable and practical solutions to maintenance enforcement applications.&nbsp;</p>
+sessions and facilitate settlement between parties, thus with a view to
+promote amicable and practical solutions to maintenance enforcement applications.&nbsp;</p>
 <p></p>
 <p>d) <strong>Submission of Information to the Court</strong>: MEOs will provide
 the information gathered to the court which will enable the court to make
