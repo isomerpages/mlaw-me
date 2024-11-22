@@ -2,7 +2,7 @@ collections:
   maintenance-enforcement:
     output: true
     order:
-      - Types of Maintenance Orders/Types of Maintenance Orders.md
+      - Types of Maintenance Orders/Contents.md
       - Types of Maintenance Orders/.keep
       - Apply to Enforce Maintenance Orders.md
       - Process of a case referred to an MEO.md
