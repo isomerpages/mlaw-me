@@ -1,0 +1,4 @@
+collections:
+  types-of-maintenance-orders:
+    output: true
+    order: []
