@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - CONTENTS.md
-      - Types of maintenance orders/Women's Charter 1961.md
       - Types of maintenance orders/.keep
