@@ -4,7 +4,7 @@ permalink: /contents/
 variant: tiptap
 description: ""
 ---
-<h4>Select the hyperlinks to visit the pages.</h4>
+<h4>Select the blue links to visit the pages.</h4>
 <h4>Types of maintenance orders</h4>
 <p><a href="/women-s-charter-1961/" rel="noopener nofollow" target="_blank">Women's Charter 1961</a>
 </p>
@@ -14,7 +14,7 @@ description: ""
 </p>
 <p><a href="/guardianship-of-infants-act-1934/" rel="noopener nofollow" target="_blank">Guardianship of Infants Act 1934</a>
 </p>
-<h4><a href="/apply-to-enforce-maintenance-orders/" rel="noopener nofollow" target="_blank">Apply to enforce maintenance orders</a></h4>
+<h4>Apply to enforce maintenance orders</h4>
 <p><a href="/apply-to-enforce-maintenance-orders/" rel="noopener nofollow" target="_blank">How to, and who can apply to enforce maintenance orders.</a>
 </p>
 <h4>Process of a case referred to MEO</h4>
