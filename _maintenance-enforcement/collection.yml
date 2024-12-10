@@ -2,5 +2,5 @@ collections:
   maintenance-enforcement:
     output: true
     order:
-      - Types of maintenance orders/.keep
       - CONTENTS.md
+      - Types of maintenance orders/.keep
