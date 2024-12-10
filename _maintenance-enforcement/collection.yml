@@ -2,4 +2,4 @@ collections:
   maintenance-enforcement:
     output: true
     order:
-      - CONTENTS.md
+      - Contents.md
