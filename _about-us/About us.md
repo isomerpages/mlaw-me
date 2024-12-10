@@ -15,9 +15,11 @@ of obtaining maintenance is easier.</p>
 <p></p>
 <p>The MEP seeks to:&nbsp;&nbsp;</p>
 <p></p>
-<p>a) strengthen deterrence against non-payment of maintenance;&nbsp;&nbsp;</p>
-<p>b) facilitate more sustainable maintenance outcomes; and&nbsp;&nbsp;</p>
-<p>c) make the enforcement process easier when maintenance is not paid.&nbsp;</p>
+<p>a) deter non-payment of maintenance;&nbsp;&nbsp;</p>
+<p>b) make the enforcement easier when there is non-payment of maintenance;</p>
+<p>b) promote sustainable maintenance outcomes; and&nbsp;&nbsp;</p>
+<p>c) increase access to justice for applicants, especially those who are
+self-represented.</p>
 <p></p>
 <p>The key functions of the MEOs include: &nbsp;</p>
 <p></p>
