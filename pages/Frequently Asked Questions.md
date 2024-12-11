@@ -18,10 +18,10 @@ for the MEO’s services in the first phase of implementation. If you have
 difficulty paying the fees, please contact the Maintenance Enforcement
 Officer at <a href="https://go.gov.sg/contactminlaw" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/contactminlaw</u></a>,
 or call 1800-2255-529*.&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p>This fee will be subject to review and revision in subsequent phases to
 ensure that it remains aligned with the objectives of the scheme.&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p>*Airtime charges may apply to calls made from mobile phones to ‘1800’
 local toll-free numbers. For overseas numbers, please call +65 6225 5529.&nbsp;</p>
 <p></p>
