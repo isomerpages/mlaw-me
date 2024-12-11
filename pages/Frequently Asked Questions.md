@@ -109,11 +109,28 @@ local toll-free numbers. For overseas numbers, please call +65 6225 5529.</p>
 </p>
 <p></p>
 <p>Please answer “<strong>No</strong>” to the question “<em>Will you be able to communicate in English in Court?</em>”
-in the enforcement application submitted through <a rel="noopener noreferrer nofollow" target="_blank">https://ifams.gov.sg</a>.
+in the enforcement application form submitted through <a href="https://ifams.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://ifams.gov.sg</u></a>.
 We will arrange for the conciliation to be conducted in your preferred
-language.</p>
+language.&nbsp;</p>
 <p></p>
-<p><strong>10.&nbsp;How can I submit my documents to the MEO?</strong>
+<p><strong>10.&nbsp;What if the Respondent refuses to pay despite conciliation?</strong>
+</p>
+<p></p>
+<p>If the Court finds that the Respondent has not paid maintenance without
+good reason, the Court will make an order specifying the amount of maintenance
+arrears to be enforced against the Respondent, and how the Respondent is
+to pay the arrears.&nbsp;</p>
+<p></p>
+<p>In contested cases, the Court will also make a Show Payment Order requiring
+the Respondent to show proof of payment to the Court for a specified period
+of time coupled with imprisonment for non-payment, unless special circumstances
+exist.&nbsp;</p>
+<p></p>
+<p>If the Respondent fails to show proof of payment, the Respondent will
+be imprisoned unless the Respondent can show good reason for failing to
+do so.&nbsp;</p>
+<p></p>
+<p><strong>11.&nbsp;How can I submit my documents to the MEO?</strong>
 </p>
 <p></p>
 <p>Please submit documents through <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/med</a>.
@@ -124,7 +141,7 @@ or call 1800-2255-529*&nbsp;</p>
 <p>*Airtime charges may apply to calls made from mobile phones to ‘1800’
 local toll-free numbers. For overseas numbers, please call +65 6225 5529.</p>
 <p></p>
-<p><strong>11.&nbsp;What happens if the Respondent is in the Debt Repayment Scheme or an undischarged bankrupt?</strong>
+<p><strong>12.&nbsp;What happens if the Respondent is in the Debt Repayment Scheme or an undischarged bankrupt?</strong>
 </p>
 <p></p>
 <p>The Respondent will be directed by the Family Justice Courts to provide
@@ -134,7 +151,7 @@ bankrupt. If the Respondent does not submit these documents to the Maintenance
 Enforcement Officer, the Maintenance Enforcement Officer will conduct fact-finding
 to obtain the information from the Official Assignee.</p>
 <p></p>
-<p><strong>12.&nbsp;What can I do if the Respondent intends to dispose his assets in order to avoid paying maintenance?</strong>
+<p><strong>13.&nbsp;What can I do if the Respondent intends to dispose his properties in order to avoid paying maintenance?</strong>
 </p>
 <p></p>
 <p>Pursuant to section 139M(1)(b) of the Women’s Charter 1961, the court
@@ -144,11 +161,11 @@ is satisfied that <em>A</em> is disposing the property to reduce A’s means
 to pay maintenance or to deprive A’s wife, former wife, incapacitated husband,
 incapacitated former husband or child, of any rights in relation to the
 property.&nbsp;</p>
-<p></p>
+<p>&nbsp;</p>
 <p>Please refer to <a href="/impending-disposition-of-property/" rel="noopener nofollow" target="_blank">this page</a> for
 more details.&nbsp;</p>
 <p></p>
-<p><strong>13.&nbsp;What if the Respondent has been transferring away his assets in order to avoid paying maintenance?</strong>
+<p><strong>14.&nbsp;What if the Respondent has been transferring away his assets in order to avoid paying maintenance?</strong>
 </p>
 <p></p>
 <p>Pursuant to section 139M(1)(a) of the Women’s Charter 1961, the court
