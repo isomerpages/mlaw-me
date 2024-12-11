@@ -13,78 +13,17 @@ description: ""
 Please refer to <a rel="noopener noreferrer nofollow" target="_blank">https://www.judiciary.gov.sg/family/apply-enforce-vary-maintenance-order</a> for
 more details.</p>
 <p></p>
-<p>Secondly, the fee payable by the Respondent, to the Ministry of Law,
-<a rel="noopener noreferrer nofollow" target="_blank">is &lt;&lt;pending&gt;&gt;.</a><a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[IPI(1]</a>&nbsp;</p>
-<hr>
-<p>(&nbsp;<a href="#_msoanchor_1" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[IPI(1]</a>This section should set out the breakdown
-and also mention that late payment interest is payable. To consider also
-whether we need to mention whether waiver/instalment is available.)</p>
-<p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>S/N</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Transaction type</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Fee (including 9% GST)</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Management of case file and preparation of Maintenance Enforcement Officer's
-("MEO") report.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$1,591.40</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MEOs' obtaining of information from third parties.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$119.90</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Review documents and update MEO's report, prior to second conciliation.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$119.90</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Conduct of conciliation session.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$179.85</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p>Secondly, Respondents will be charged a fee of $180 (inclusive of GST)
+for the MEO’s services in the first phase of implementation. If you have
+difficulty paying the fees, please contact the Maintenance Enforcement
+Officer at <a href="https://go.gov.sg/contactminlaw" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/contactminlaw</u></a>,
+or call 1800-2255-529*.&nbsp;</p>
+<p>&nbsp;</p>
+<p>This fee will be subject to review and revision in subsequent phases to
+ensure that it remains aligned with the objectives of the scheme.&nbsp;</p>
+<p>&nbsp;</p>
+<p>*Airtime charges may apply to calls made from mobile phones to ‘1800’
+local toll-free numbers. For overseas numbers, please call +65 6225 5529.&nbsp;</p>
 <p></p>
 <p><strong>2.&nbsp;What will happen if the Respondent does not show up?</strong>
 </p>
@@ -195,14 +134,16 @@ bankrupt. If the Respondent does not submit these documents to the Maintenance
 Enforcement Officer, the Maintenance Enforcement Officer will conduct fact-finding
 to obtain the information from the Official Assignee.</p>
 <p></p>
-<p><strong>12.&nbsp;What can I do if the Respondent <em>intends</em> to dispose his assets in order to avoid paying maintenance?</strong>
+<p><strong>12.&nbsp;What can I do if the Respondent intends to dispose his assets in order to avoid paying maintenance?</strong>
 </p>
 <p></p>
 <p>Pursuant to section 139M(1)(b) of the Women’s Charter 1961, the court
 has the power on application to grant an injunction preventing any disposition
 of property by a person (called in this section <em>A</em>) — if the court
-is satisfied that <em>A</em> is making the disposition with the object on
-the part of <em>A</em> to produce the relevant consequence.</p>
+is satisfied that <em>A</em> is disposing the property to reduce A’s means
+to pay maintenance or to deprive A’s wife, former wife, incapacitated husband,
+incapacitated former husband or child, of any rights in relation to the
+property.&nbsp;</p>
 <p></p>
 <p>Please refer to <a href="/impending-disposition-of-property/" rel="noopener nofollow" target="_blank">this page</a> for
 more details.&nbsp;</p>
@@ -214,8 +155,10 @@ more details.&nbsp;</p>
 has the power on application to set aside any disposition of property by
 a person (called in this section <em>A</em>) — if the court is satisfied
 that the disposition of property has been made within the preceding 3 years
-immediately before the date of the making of the application, with the
-object on the part of <em>A</em> to produce the relevant consequence.</p>
+immediately before the date of the making of the application, and that
+A has disposed the property to reduce A’s means to pay maintenance or to
+deprive A’s wife, former wife, incapacitated husband, incapacitated former
+husband or child, of any rights in relation to the property.</p>
 <p></p>
 <p>Please refer to <a href="/disposition-of-property/" rel="noopener nofollow" target="_blank">this page</a> for
 more details.</p>
