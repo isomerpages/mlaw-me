@@ -8,7 +8,8 @@ description: ""
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Family Justice Reform Act 2023</p>
+<p><strong><a href="https://sso.agc.gov.sg/Acts-Supp/18-2023/Published/20230612?DocDate=20230612" rel="noopener nofollow" target="_blank">Family Justice Reform Act 2023</a></strong>
+</p>
 </li>
 </ul>
 <p></p>
