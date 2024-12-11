@@ -7,7 +7,9 @@ links:
   - title: E-Services
     url: /permalink
     sublinks:
-      - title: MED Portal
+      - title: Submit documents to MEO(Jan25)
+        url: https://eservices.mlaw.gov.sg/stream
+      - title: E-Services (Jan 2025)
         url: https://eservices.mlaw.gov.sg/stream
   - title: Resources
     collection: family-justice-reform-act-2023
