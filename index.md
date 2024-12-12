@@ -6,9 +6,9 @@ description: Office of the Maintenance Enforcement Officers
 image: /images/isomer-logo.svg
 permalink: /
 notification: During the first phase of implementation, the Family Justice
-  Courts will refer repeat maintenance enforcement applications to the MEOs. All
-  maintenance enforcement applications will be referred to MEOs in the later
-  phases of implementation.
+  Courts will refer eligible repeat maintenance enforcement applications to the
+  MEOs. All maintenance enforcement applications will be referred to MEOs in the
+  later phases of implementation.
 sections:
   - hero:
       title: Maintenance Enforcement
