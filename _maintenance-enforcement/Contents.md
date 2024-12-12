@@ -9,9 +9,9 @@ description: ""
 MEO under the new maintenance enforcement process.</p>
 <p></p>
 <p>During the initial phase of implementation, the Family Justice Courts
-will refer repeat maintenance enforcement applications to the MEOs. All
-maintenance enforcement applications will be referred to MEOs in the later
-phases of implementation.</p>
+will refer eligible repeat maintenance enforcement applications to the
+MEOs. All maintenance enforcement applications will be referred to MEOs
+in the later phases of implementation.</p>
 <p></p>
 <p>Enforcement of maintenance orders under the Maintenance Orders (Reciprocal
 Enforcement) Act 1975 will not be referred to the MEOs in Phase 1 . These
