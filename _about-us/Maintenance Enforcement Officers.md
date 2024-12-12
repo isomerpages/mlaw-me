@@ -6,11 +6,11 @@ description: ""
 ---
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Minister for Law has appointed Mr Ng
 Yong Kiat Francis to be the chief maintenance enforcement officer with
-effect from 2 January 2025.</p>
+effect from 16 January 2025.</p>
 <p></p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In addition, Minister for Law has appointed
 the following officers as maintenance enforcement officers with effect
-from 2 January 2025:</p>
+from 16 January 2025:</p>
 <p></p>
 <p>(a) Mr Lim Jian Yi</p>
 <p>(b) Ms Yap Cai Ping</p>
@@ -26,7 +26,7 @@ from 2 January 2025:</p>
 <p></p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Minister for Law has also appointed the
 following persons as maintenance enforcement officers to assist with the
-conciliation sessions with effect from 2 January 2025:</p>
+conciliation sessions with effect from 16 January 2025:</p>
 <p></p>
 <p>(a) Mr Chew Yew Kuen Michael</p>
 <p>(b) Mrs Chia Swee Tin</p>
