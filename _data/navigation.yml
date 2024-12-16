@@ -20,5 +20,7 @@ links:
   - title: FAQ
     url: /frequently-asked-questions/
   - title: Resources 2
-    url: /Resources/
-    sublinks: []
+    url: /permalink
+    sublinks:
+      - title: video
+        url: /https://www.facebook.com/share/v/1BsBXYh5DK/
