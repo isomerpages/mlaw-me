@@ -19,10 +19,3 @@ links:
     url: https://www.careers.gov.sg/
   - title: FAQ
     url: /frequently-asked-questions/
-  - title: New menu group
-    url: /permalink
-    sublinks:
-      - title: Test
-        url: /conciliation/
-      - title: Maintenance
-        url: https://www.judiciary.gov.sg/family/maintenance
