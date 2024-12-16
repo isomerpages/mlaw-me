@@ -47,9 +47,9 @@ country; and</p>
 <h4>Apply to enforce maintenance orders</h4>
 <p><a href="/apply-to-enforce-maintenance-orders/" rel="noopener nofollow" target="_blank">Click here</a> for
 the steps to make a maintenance enforcement application.</p>
-<h4>Process of a case referred to MEO</h4>
+<h4>The Maintenance Enforcement Process</h4>
 <p><a href="/process-of-a-case-referred-to-an-meo/" rel="noopener nofollow" target="_blank">Click here</a> for
-the workflow of the new maintenance enforcement process.</p>
+how the MEP works.</p>
 <h4>What is conciliation?</h4>
 <p><a href="/conciliation/" rel="noopener nofollow" target="_blank">Click here</a> for
 the explanation.</p>
