@@ -3,13 +3,13 @@ title: Maintenance Enforcement Division, a division of the Insolvency & Public
 url: https://med.mlaw.gov.sg
 favicon: /images/MinLaw_logo.png
 colors:
-  primary-color: "#4169e1"
-  secondary-color: "#3e8e41"
+  primary-color: "#a40935"
+  secondary-color: "#a40935"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#696969"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#800000"
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
