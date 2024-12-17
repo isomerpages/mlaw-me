@@ -4,8 +4,6 @@ permalink: /conciliation/
 variant: tiptap
 description: ""
 ---
-<h4><strong>What is conciliation?</strong></h4>
-<p></p>
 <p>The court may direct the Applicant and Respondent to attend before an
 MEO for a conciliation session. Both parties must attend the conciliation
 session. In a conciliation session, the MEO is a neutral facilitator guiding
