@@ -2,8 +2,12 @@ logo: /images/MinLaw_logo.png
 links:
   - title: About Us
     url: /about-us/
-  - title: Maintenance Enforcement
+  - title: What is maintenance?
+    url: https://www.judiciary.gov.sg/family/maintenance
+  - title: Maintenance Enforcement folder
     collection: maintenance-enforcement
+  - title: Maintenance Enforcement page
+    url: /phased-approach/
   - title: E-Services
     url: /permalink
     sublinks:
@@ -11,11 +15,11 @@ links:
         url: https://eservices.mlaw.gov.sg/stream
       - title: E-Services (Jan 2025)
         url: https://eservices.mlaw.gov.sg/stream
+  - title: FAQ
+    url: /frequently-asked-questions/
   - title: Resources
-    collection: family-justice-reform-act-2023
+    collection: resources
   - title: News
     url: https://www.mlaw.gov.sg/news/
   - title: Careers
     url: https://www.careers.gov.sg/
-  - title: FAQ
-    url: /frequently-asked-questions/

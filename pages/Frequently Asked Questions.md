@@ -4,77 +4,78 @@ permalink: /frequently-asked-questions/
 variant: tiptap
 description: ""
 ---
-<p><strong>1.&nbsp;What are the fees involved?</strong>
+<p><strong>A.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; General</strong>
 </p>
 <p></p>
-<p>There are two parts to this answer.</p>
+<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What is the difference between a maintenance enforcement application and a maintenance order?</strong>
+</p>
 <p></p>
-<p>Firstly, the Family Justice Courts charge $1 for the issuance of a summons.
-Please refer to <a rel="noopener noreferrer nofollow" target="_blank">https://www.judiciary.gov.sg/family/apply-enforce-vary-maintenance-order</a> for
-more details.</p>
+<p>A maintenance order is a court directive requiring one party to provide
+financial support to another, typically a spouse or child.</p>
 <p></p>
-<p>Secondly, Respondents will be charged a fee of $180 (inclusive of GST)
-for the MEO’s services in the first phase of implementation. If you have
-difficulty paying the fees, please contact the Maintenance Enforcement
-Officer at <a href="https://go.gov.sg/contactminlaw" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/contactminlaw</u></a>,
-or call 1800-2255-529*.&nbsp;</p>
+<p>A maintenance enforcement application is a legal process to compel compliance
+when the party ordered to pay maintenance fails to do so. It seeks to enforce
+an existing maintenance order.</p>
 <p></p>
-<p>This fee will be subject to review and revision in subsequent phases to
-ensure that it remains aligned with the objectives of the scheme.&nbsp;</p>
+<p>The key difference: A maintenance order establishes the obligation to
+pay, while an enforcement application addresses non-compliance with that
+order.</p>
+<p></p>
+<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Do I need a lawyer in the maintenance enforcement process?</strong>
+</p>
+<p></p>
+<p>A lawyer is not necessary to apply for the enforcement of a maintenance
+order. Parties may nevertheless engage a practising lawyer for the purposes
+of the enforcement application, if they wish to do so.</p>
+<p></p>
+<p><strong>B.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applying for enforcement</strong>
+</p>
+<p></p>
+<p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What are the fees involved in the Maintenance Enforcement Process (MEP)?</strong>
+</p>
+<p></p>
+<p>Applicants do not need to pay fees when making a maintenance enforcement
+application to the Family Justice Courts (FJC).</p>
+<p></p>
+<p>Respondents (the party against whom a maintenance enforcement application
+is made) will be charged a fee of $180 (inclusive of GST) for the Maintenance
+Enforcement Officer (MEO)’s services in the first phase of implementation.
+This fee will be charged after the MEO report is submitted to FJC.</p>
+<p></p>
+<p>If you have difficulty paying the fees, please contact the Maintenance
+Enforcement Officer at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/contactminlaw</a>,
+or call 1800-2255-529*.</p>
 <p></p>
 <p>*Airtime charges may apply to calls made from mobile phones to ‘1800’
-local toll-free numbers. For overseas numbers, please call +65 6225 5529.&nbsp;</p>
+local toll-free numbers. For overseas numbers, please call +65 6225 5529.</p>
 <p></p>
-<p><strong>2.&nbsp;What will happen if the Respondent does not show up?</strong>
+<p><strong>C.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conciliation</strong>
 </p>
 <p></p>
-<p>If Applicant or Respondent does not turn up 30 minutes into the scheduled
-first conciliation session, the Maintenance Enforcement Officers will record
-the parties’ attendance.</p>
-<p></p>
-<p>The Maintenance Enforcement Officer then reschedules the conciliation
-session for both parties to one week’s time.</p>
-<p></p>
-<p>If Respondent is absent again without providing any notice or reasons,
-the Maintenance Enforcement Officer will inform the Family Justice Courts
-to seek the Court’s directions. The Family Justice Courts may direct the
-parties to attend a conciliation session on a later date.&nbsp;</p>
-<p></p>
-<p>If the Respondent remains absent for the conciliation session, the Maintenance
-Enforcement Officer will proceed to obtain information from various third-party
-agencies if the Respondent did not submit any documents.</p>
-<p></p>
-<p><strong>3.&nbsp;What will happen if the Respondent refuses to submit documents to the Maintenance Enforcement Officer?</strong>
+<p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What will happen if the Respondent does not attend the conciliation session?</strong>
 </p>
 <p></p>
-<p>If the Respondent refuses to submit documents to the Maintenance Enforcement
-Officer as directed by the Family Justice Courts, he/she will be in contempt
-of court.</p>
+<p>Parties should inform the MEO if the scheduled date and time for the first
+conciliation session is not suitable.</p>
 <p></p>
-<p>The Maintenance Enforcement Officer will obtain the required information
-from third party agencies if the Respondent refuses to submit any documents.
-Thereafter, the Maintenance Enforcement Officer will prepare a report with
-the information obtained from the third party agencies, and submit it to
-the court.</p>
+<p>If the Respondent does not attend the conciliation session, the MEO will
+reschedule the conciliation session for both parties.</p>
 <p></p>
-<p><strong>4.&nbsp;What will happen if the Respondent says that he wants to vary the court order during the conciliation session?</strong>
+<p>If the Respondent is absent again without a valid reason, the MEO will
+inform the Court. The Court may direct the Respondent to attend a second
+rescheduled conciliation session, failing which a Warrant of Arrest may
+be issued.</p>
+<p></p>
+<p><strong>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What will happen if the Respondent says that he wants to vary the court order during the conciliation session?</strong>
 </p>
 <p></p>
 <p>Maintenance arrears between the date of the previous order(s) and the
 present remain payable in full.</p>
 <p></p>
 <p>A variation of maintenance order for <em>future</em> maintenance payments
-can be discussed during the conciliation session with the Maintenance Enforcement
-Officer.</p>
+can be discussed during the conciliation session with the MEO.</p>
 <p></p>
-<p><strong>5.&nbsp;Do I need a lawyer in the maintenance enforcement process?</strong>
-</p>
-<p></p>
-<p>A lawyer is not necessary to apply for the enforcement of maintenance
-order. However, parties are at liberty to obtain legal advice from a practising
-lawyer if parties deem it necessary.</p>
-<p></p>
-<p><strong>6.&nbsp;How long will it take for the MEO to conduct fact-finding and conciliation?</strong>
+<p><strong>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How long will it take for the MEO to conduct fact-finding and conciliation?</strong>
 </p>
 <p></p>
 <p>The first conciliation session will be scheduled by the court in about
@@ -83,21 +84,21 @@ session is estimated to be in the duration of between one and one and a
 half hours.</p>
 <p></p>
 <p>If parties do not reach a settlement at the first conciliation session,
-the Maintenance Enforcement Officers will conduct fact-finding with third-party
-agencies which may take up to a further three to four weeks. A second conciliation
-session, if necessary, will only be fixed after the Maintenance Enforcement
-Officer completes the necessary fact-finding with the third-party agencies.</p>
+the MEOs will conduct fact-finding with third-party agencies which may
+take up to a further three to four weeks. A second conciliation session,
+if necessary, will only be fixed after the MEO completes the necessary
+fact-finding with the third-party agencies.</p>
 <p></p>
-<p><strong>7.&nbsp;How is the conciliation session conducted?</strong>
+<p><strong>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How is the conciliation session conducted?</strong>
 </p>
 <p></p>
-<p>The conciliation session(s) are conducted virtually over Zoom, or in-person
-at 45 Maxwell Road, #07-11 The URA Centre (East Wing) Singapore 069118.</p>
+<p>The conciliation session(s) are conducted virtually, or in-person at 45
+Maxwell Road, #07-11 The URA Centre (East Wing) Singapore 069118.</p>
 <p></p>
-<p><strong>8.&nbsp;What can I do if my conciliation session is to be conducted virtually but I have no access to the internet?</strong>
+<p><strong>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What can I do if my conciliation session is to be conducted virtually but I have no access to the Internet?</strong>
 </p>
 <p></p>
-<p>Please contact the Maintenance Enforcement Officer through <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/contactminlaw</a>,
+<p>Please contact the MEO through <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/contactminlaw</a>,
 or call 1800-2255-529* for assistance to attend the conciliation session
 via Zoom from a computer station located at 45 Maxwell Road #07-11 The
 URA Centre (East Wing) Singapore 069118.</p>
@@ -105,80 +106,134 @@ URA Centre (East Wing) Singapore 069118.</p>
 <p>*Airtime charges may apply to calls made from mobile phones to ‘1800’
 local toll-free numbers. For overseas numbers, please call +65 6225 5529.</p>
 <p></p>
-<p><strong>9.&nbsp;What if I do not understand English?</strong>
+<p><strong>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What if I do not understand English?</strong>
 </p>
 <p></p>
 <p>Please answer “<strong>No</strong>” to the question “<em>Will you be able to communicate in English in Court?</em>”
-in the enforcement application form submitted through <a href="https://ifams.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://ifams.gov.sg</u></a>.
-We will arrange for the conciliation to be conducted in your preferred
-language.&nbsp;</p>
+in the enforcement application form submitted through <a rel="noopener noreferrer nofollow" target="_blank">https://ifams.gov.sg</a>. We will arrange
+for the conciliation to be conducted in your preferred language.</p>
 <p></p>
-<p><strong>10.&nbsp;What if the Respondent refuses to pay despite conciliation?</strong>
+<p><strong>D.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MEO Reports</strong>
 </p>
 <p></p>
-<p>If the Court finds that the Respondent has not paid maintenance without
-good reason, the Court will make an order specifying the amount of maintenance
-arrears to be enforced against the Respondent, and how the Respondent is
-to pay the arrears.&nbsp;</p>
-<p></p>
-<p>In contested cases, the Court will also make a Show Payment Order requiring
-the Respondent to show proof of payment to the Court for a specified period
-of time coupled with imprisonment for non-payment, unless special circumstances
-exist.&nbsp;</p>
-<p></p>
-<p>If the Respondent fails to show proof of payment, the Respondent will
-be imprisoned unless the Respondent can show good reason for failing to
-do so.&nbsp;</p>
-<p></p>
-<p><strong>11.&nbsp;How can I submit my documents to the MEO?</strong>
+<p><strong>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What is contained in an MEO report?</strong>
 </p>
 <p></p>
-<p>Please submit documents through <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/med</a>.
-Should you have any problems with the document submission, please contact
-the Maintenance Enforcement Officer through <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/contactminlaw</a>,
+<p>The MEO report contains:</p>
+<p></p>
+<p>(a)&nbsp;&nbsp;&nbsp; the parties’ particulars;</p>
+<p>(b)&nbsp;&nbsp; the details of the maintenance order;</p>
+<p>(c)&nbsp;&nbsp;&nbsp; the details of any previous maintenance enforcement
+order(s);</p>
+<p>(d)&nbsp;&nbsp; the details of any maintenance arrears;</p>
+<p>(e)&nbsp;&nbsp;&nbsp; the Respondent’s (and the Applicant’s, if applicable)
+income, expenses, debt, assets information;</p>
+<p>(f)&nbsp;&nbsp;&nbsp;&nbsp; the parties’ financial assistance information;</p>
+<p>(g)&nbsp;&nbsp;&nbsp; and details in relation to the MEP.</p>
+<p></p>
+<p><strong>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What am I supposed to make of the MEO upon receiving it?</strong>
+</p>
+<p></p>
+<p>Parties can plan their points of discussion for the conciliation session
+to assist the MEO to facilitate an amicable and sustainable settlement.</p>
+<p></p>
+<p><strong>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I disclose the MEO Report?</strong>
+</p>
+<p></p>
+<p>No.</p>
+<p></p>
+<p><strong>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What can I do if I disagree with the facts reflected in the MEO report?</strong>
+</p>
+<p></p>
+<p>Parties must substantiate any disagreement with supporting documents.
+Please produce the supporting documents during conciliation, or contact
+the MEO through <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/contactminlaw</a>,
 or call 1800-2255-529*&nbsp;</p>
 <p></p>
 <p>*Airtime charges may apply to calls made from mobile phones to ‘1800’
 local toll-free numbers. For overseas numbers, please call +65 6225 5529.</p>
 <p></p>
-<p><strong>12.&nbsp;What happens if the Respondent is in the Debt Repayment Scheme or an undischarged bankrupt?</strong>
+<p><strong>14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How can I submit my documents to the MEO?</strong>
+</p>
+<p></p>
+<p>Please submit documents through <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/med</a>.
+Should you have any problems with the document submission, please contact
+the MEO through <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/contactminlaw</a>,
+or call 1800-2255-529*&nbsp;</p>
+<p></p>
+<p>*Airtime charges may apply to calls made from mobile phones to ‘1800’
+local toll-free numbers. For overseas numbers, please call +65 6225 5529.</p>
+<p></p>
+<p><strong>15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What will happen if the Respondent refuses to submit documents to the MEO?</strong>
+</p>
+<p></p>
+<p>If the Respondent refuses to submit documents to the MEO, the MEO will
+exercise powers to conduct fact-finding to obtain information about the
+Respondent’s financial circumstances. The MEO will also update the Court
+that the Respondent failed to submit documents to the MEO. Thereafter,
+the MEO will prepare a report with the information obtained from the third
+party agencies, and submit it to the court.</p>
+<p></p>
+<p><strong>16.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What happens if the Respondent is in the Debt Repayment Scheme or an undischarged bankrupt?</strong>
 </p>
 <p></p>
 <p>The Respondent will be directed by the Family Justice Courts to provide
 a copy of his Debt Repayment Plan if he is on the Debt Repayment Scheme
 or his Notice of Determination of Monthly Contribution if he is an undischarged
-bankrupt. If the Respondent does not submit these documents to the Maintenance
-Enforcement Officer, the Maintenance Enforcement Officer will conduct fact-finding
-to obtain the information from the Official Assignee.</p>
+bankrupt. If the Respondent does not submit these documents to the MEO,
+the MEO will conduct fact-finding to obtain the information from the Official
+Assignee.</p>
 <p></p>
-<p><strong>13.&nbsp;What can I do if the Respondent intends to dispose his properties in order to avoid paying maintenance?</strong>
+<p><strong>E.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Referrals to assistance</strong>
+</p>
+<p></p>
+<p><strong>17.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What if I require financial assistance, whilst awaiting the outcome of the MEP?</strong>
+</p>
+<p></p>
+<p>The MEO can refer suitable parties for financial assistance. Please notify
+the MEO that you require financial assistance, at any time during the MEP.
+&nbsp;</p>
+<p></p>
+<p><strong>F.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Court hearings</strong>
+</p>
+<p></p>
+<p><strong>18.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What if the Respondent refuses to pay despite conciliation?</strong>
+</p>
+<p></p>
+<p>If the Court finds that the Respondent has not paid maintenance without
+good reason, the Court will make an order specifying the amount of maintenance
+arrears to be enforced against the Respondent, and how the Respondent is
+to pay the arrears.</p>
+<p></p>
+<p>In contested cases, the Court will also make a Show Payment Order. The
+Show Payment Order requires the Respondent to show proof of payment to
+the Court for a specified period of time. Unless special circumstances
+exist, the Order will also state that the Respondent is liable to imprisonment
+if he or she fails to show proof of payment.</p>
+<p></p>
+<p>If the Respondent fails to show proof of payment, the Respondent will
+be imprisoned unless the Respondent can show good reason for failing to
+do so.</p>
+<p></p>
+<p><strong>19.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What can I do if the Respondent intends to dispose his properties in order to avoid paying maintenance?</strong>
 </p>
 <p></p>
 <p>Pursuant to section 139M(1)(b) of the Women’s Charter 1961, the court
 has the power on application to grant an injunction preventing any disposition
-of property by a person (called in this section <em>A</em>) — if the court
-is satisfied that <em>A</em> is disposing the property to reduce A’s means
-to pay maintenance or to deprive A’s wife, former wife, incapacitated husband,
-incapacitated former husband or child, of any rights in relation to the
-property.&nbsp;</p>
-<p>&nbsp;</p>
-<p>Please refer to <a href="/impending-disposition-of-property/" rel="noopener nofollow" target="_blank">this page</a> for
-more details.&nbsp;</p>
+of property by a person (<em>A</em>) — if the court is satisfied that <em>A</em> is
+disposing the property to reduce <em>A</em>’s means to pay maintenance or
+to deprive <em>A</em>’s wife, former wife, incapacitated husband, incapacitated
+former husband or child, of any rights in relation to the property.</p>
 <p></p>
-<p><strong>14.&nbsp;What if the Respondent has been transferring away his assets in order to avoid paying maintenance?</strong>
+<p><strong>20.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What if the Respondent has been transferring away his properties in order to avoid paying maintenance?</strong>
 </p>
 <p></p>
 <p>Pursuant to section 139M(1)(a) of the Women’s Charter 1961, the court
 has the power on application to set aside any disposition of property by
-a person (called in this section <em>A</em>) — if the court is satisfied
-that the disposition of property has been made within the preceding 3 years
-immediately before the date of the making of the application, and that
-A has disposed the property to reduce A’s means to pay maintenance or to
-deprive A’s wife, former wife, incapacitated husband, incapacitated former
-husband or child, of any rights in relation to the property.</p>
-<p></p>
-<p>Please refer to <a href="/disposition-of-property/" rel="noopener nofollow" target="_blank">this page</a> for
-more details.</p>
-<p></p>
-<p></p>
+a person (<em>A</em>) — if the court is satisfied that the disposition
+of property has been made within the preceding 3 years immediately before
+the date of the making of the application, and that <em>A</em> has disposed
+the property to reduce <em>A</em>’s means to pay maintenance or to deprive <em>A</em>’s
+wife, former wife, incapacitated husband, incapacitated former husband
+or child, of any rights in relation to the property.</p>
 <p></p>

@@ -1,0 +1,8 @@
+collections:
+  resources:
+    output: true
+    order:
+      - (Video) Role of Maintenanance Enforcement Officers.md
+      - Brochures and forms.md
+      - Legislation.md
+      - Useful External Links.md
