@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4>Phased approach</h4>
-<p>The Maintenance Enforcement Process (MEP) will be implemented in two phases[SY1]&nbsp;.
+<p>The Maintenance Enforcement Process (MEP) will be implemented in two phases.
 In Phase 1, only certain maintenance enforcement applications, in respect
 of certain kinds of maintenance orders, will be referred to the Maintenance
 Enforcement Officers (MEOs). This referral is done by the Family Justice
