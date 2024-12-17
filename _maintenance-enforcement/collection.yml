@@ -2,9 +2,9 @@ collections:
   maintenance-enforcement:
     output: true
     order:
-      - What maintenance enforcement applications does Phase 1 apply to?.md
       - Phased approach.md
       - What types of maintenance orders does Phase 1 apply to?.md
+      - What maintenance enforcement applications does Phase 1 apply to?.md
       - Apply to Enforce Maintenance Orders.md
       - The Maintenance Enforcement Process.md
       - What is Conciliation?.md
