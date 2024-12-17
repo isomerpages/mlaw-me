@@ -18,5 +18,4 @@ maintenance enforcement application refers to an application to enforce
 an existing maintenance order if the respondent does not comply with it.
 Click <a href="https://www.judiciary.gov.sg/family/maintenance" rel="noopener nofollow" target="_blank">here</a>&nbsp;for
 more information relating to maintenance.</p>
-<hr>
 <p></p>
