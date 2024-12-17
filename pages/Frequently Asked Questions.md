@@ -38,9 +38,9 @@ of the enforcement application, if they wish to do so.</p>
 application to the Family Justice Courts (FJC).</p>
 <p></p>
 <p>Respondents (the party against whom a maintenance enforcement application
-is made) will be charged a fee of $180 (inclusive of GST) for the MEO’s
-services in the first phase of implementation. This fee will be charged
-after the MEO report is submitted to FJC.</p>
+is made) will be charged a fee of $180 (inclusive of GST) for the Maintenance
+Enforcement Officer (MEO)’s services in the first phase of implementation.
+This fee will be charged after the MEO report is submitted to FJC.</p>
 <p></p>
 <p>If you have difficulty paying the fees, please contact the Maintenance
 Enforcement Officer at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/contactminlaw</a>,
@@ -110,9 +110,8 @@ local toll-free numbers. For overseas numbers, please call +65 6225 5529.</p>
 </p>
 <p></p>
 <p>Please answer “<strong>No</strong>” to the question “<em>Will you be able to communicate in English in Court?</em>”
-in the enforcement application form submitted through <a rel="noopener noreferrer nofollow" target="_blank">https://ifams.gov.sg</a>.
-We will arrange for the conciliation to be conducted in your preferred
-language.</p>
+in the enforcement application form submitted through <a rel="noopener noreferrer nofollow" target="_blank">https://ifams.gov.sg</a>. We will arrange
+for the conciliation to be conducted in your preferred language.</p>
 <p></p>
 <p><strong>D.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MEO Reports</strong>
 </p>
