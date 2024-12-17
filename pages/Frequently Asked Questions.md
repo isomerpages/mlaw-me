@@ -158,21 +158,21 @@ local toll-free numbers. For overseas numbers, please call +65 6225 5529.</p>
 <p></p>
 <p>Please submit documents through <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/med</a>.
 Should you have any problems with the document submission, please contact
-the Maintenance Enforcement Officer through <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/contactminlaw</a>,
+the MEO through <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/contactminlaw</a>,
 or call 1800-2255-529*&nbsp;</p>
 <p></p>
 <p>*Airtime charges may apply to calls made from mobile phones to ‘1800’
 local toll-free numbers. For overseas numbers, please call +65 6225 5529.</p>
 <p></p>
-<p><strong>15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What will happen if the Respondent refuses to submit documents to the Maintenance Enforcement Officer?</strong>
+<p><strong>15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What will happen if the Respondent refuses to submit documents to the MEO?</strong>
 </p>
 <p></p>
 <p>If the Respondent refuses to submit documents to the MEO, the MEO will
 exercise powers to conduct fact-finding to obtain information about the
 Respondent’s financial circumstances. The MEO will also update the Court
 that the Respondent failed to submit documents to the MEO. Thereafter,
-the Maintenance Enforcement Officer will prepare a report with the information
-obtained from the third party agencies, and submit it to the court.</p>
+the MEO will prepare a report with the information obtained from the third
+party agencies, and submit it to the court.</p>
 <p></p>
 <p><strong>16.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What happens if the Respondent is in the Debt Repayment Scheme or an undischarged bankrupt?</strong>
 </p>
@@ -180,9 +180,9 @@ obtained from the third party agencies, and submit it to the court.</p>
 <p>The Respondent will be directed by the Family Justice Courts to provide
 a copy of his Debt Repayment Plan if he is on the Debt Repayment Scheme
 or his Notice of Determination of Monthly Contribution if he is an undischarged
-bankrupt. If the Respondent does not submit these documents to the Maintenance
-Enforcement Officer, the Maintenance Enforcement Officer will conduct fact-finding
-to obtain the information from the Official Assignee.</p>
+bankrupt. If the Respondent does not submit these documents to the MEO,
+the MEO will conduct fact-finding to obtain the information from the Official
+Assignee.</p>
 <p></p>
 <p><strong>E.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Referrals to assistance</strong>
 </p>
