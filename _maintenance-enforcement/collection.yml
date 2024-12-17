@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Contents/.keep
-      - Contents/Phased approach.md
       - Contents/What types of maintenance orders does Phase 1 apply to?.md
