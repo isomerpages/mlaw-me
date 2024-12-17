@@ -7,7 +7,7 @@ description: ""
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/MEP_Process.pdf" rel="noopener noreferrer nofollow" target="_blank">Enhanced maintenance enforcement process</a>
+<p><a href="/files/Maintenance_Enforcement_Process_infographic.pdf" rel="noopener noreferrer nofollow" target="_blank">Enhanced maintenance enforcement process</a>
 </p>
 </li>
 </ul>
