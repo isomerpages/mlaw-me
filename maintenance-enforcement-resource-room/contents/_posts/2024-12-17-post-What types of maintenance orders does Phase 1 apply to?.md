@@ -22,9 +22,5 @@ country; and</p>
 <p><a href="https://staging.d2rudvgarph4ka.amplifyapp.com/maintenance-of-parents-act-1995/" rel="noopener noreferrer nofollow" target="_blank">Maintenance of Parents Act 1995</a>
 </p>
 <p><a href="https://staging.d2rudvgarph4ka.amplifyapp.com/guardianship-of-infants-act-1934/" rel="noopener noreferrer nofollow" target="_blank">Guardianship of Infants Act 1934</a>
-<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[J(1]</a>&nbsp;<a href="#_msocom_2" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[H(2]</a>&nbsp;</p>
-<hr>
-<p>&nbsp;<a href="#_msoanchor_1" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[J(1]</a>Why do these Act links suddenly appear here?</p>
-<p>&nbsp;<a href="#_msoanchor_2" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[H(2]</a>The links will open the MED websites' pages
-describing "who can apply", "who to pay", "For whose benefit" i.e. page
-3 below onwards are new pages within the MED website.</p>
+</p>
+<p></p>
