@@ -2,7 +2,7 @@ collections:
   maintenance-enforcement:
     output: true
     order:
-      - Process of a case referred to an MEO.md
+      - The Maintenance Enforcement Process.md
       - Phased approach.md
       - What types of maintenance orders does Phase 1 apply to?.md
       - Contents/.keep
