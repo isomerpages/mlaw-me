@@ -2,7 +2,7 @@ collections:
   maintenance-enforcement:
     output: true
     order:
-      - What types of maintenance orders does Phase 1 apply to?.md
       - Phased approach.md
+      - What types of maintenance orders does Phase 1 apply to?.md
       - Contents/.keep
       - Contents/What types of maintenance orders does Phase 1 apply to?.md
