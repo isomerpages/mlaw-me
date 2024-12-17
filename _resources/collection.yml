@@ -2,9 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - Test/test 2.md
-      - Test/test 1.md
-      - Test/.keep
       - Useful External Links.md
       - (Video) Role of Maintenanance Enforcement Officers.md
       - Legislation.md
