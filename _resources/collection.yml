@@ -2,7 +2,7 @@ collections:
   resources:
     output: true
     order:
-      - Useful External Links.md
       - (Video) Role of Maintenanance Enforcement Officers.md
-      - Legislation.md
       - Brochures and forms (pdf to be replaced).md
+      - Legislation.md
+      - Useful External Links.md
