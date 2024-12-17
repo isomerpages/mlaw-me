@@ -4,6 +4,8 @@ links:
     url: /about-us/
   - title: Maintenance Enforcement
     collection: maintenance-enforcement
+  - title: Maintenance Enforcement
+    url: /permalink
   - title: E-Services
     url: /permalink
     sublinks:
@@ -19,5 +21,3 @@ links:
     url: https://www.careers.gov.sg/
   - title: FAQ
     url: /frequently-asked-questions/
-  - title: Maintenance Enforcement
-    url: /permalink
