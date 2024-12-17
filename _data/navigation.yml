@@ -2,10 +2,10 @@ logo: /images/MinLaw_logo.png
 links:
   - title: About Us
     url: /about-us/
-  - title: Maintenance Enforcement
+  - title: Maintenance Enforcement folder
     collection: maintenance-enforcement
-  - title: Maintenance Enforcement
-    url: /contents/
+  - title: Maintenance Enforcement (page)
+    url: /phased-approach/
   - title: E-Services
     url: /permalink
     sublinks:
@@ -21,5 +21,3 @@ links:
     url: https://www.careers.gov.sg/
   - title: FAQ
     url: /frequently-asked-questions/
-  - title: New single page
-    url: /phased-approach/
