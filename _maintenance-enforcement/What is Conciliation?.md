@@ -23,8 +23,9 @@ submitted to the Court.</p>
 <p></p>
 <p>If there is no agreement after the second conciliation session, the parties
 will appear before the Court for the hearing of the application. The Court
-may rely on the MEO report in coming to a decision.</p>
-<p></p>
+may rely on the MEO report in coming to a decision.
+<br>
+</p>
 <h4>Tips for a successful conciliation session</h4>
 <p></p>
 <p>A negotiated settlement often proves more advantageous than a litigated
