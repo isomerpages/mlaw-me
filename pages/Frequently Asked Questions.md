@@ -10,16 +10,11 @@ description: ""
 <p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What is the difference between a maintenance enforcement application and a maintenance order?</strong>
 </p>
 <p></p>
-<p>A maintenance order is a court directive requiring one party to provide
-financial support to another, typically a spouse or child.</p>
+<p>A maintenance order refers to an order for the provision of support (financial
+in nature) for wives, children, incapacitated husbands or parents.</p>
 <p></p>
-<p>A maintenance enforcement application is a legal process to compel compliance
-when the party ordered to pay maintenance fails to do so. It seeks to enforce
-an existing maintenance order.</p>
-<p></p>
-<p>The key difference: A maintenance order establishes the obligation to
-pay, while an enforcement application addresses non-compliance with that
-order.</p>
+<p>A maintenance enforcement application refers to an application to enforce
+an existing maintenance order if the respondent does not comply with it.</p>
 <p></p>
 <p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Do I need a lawyer in the maintenance enforcement process?</strong>
 </p>
@@ -42,8 +37,7 @@ is made) will be charged a fee of $180 (inclusive of GST) for the Maintenance
 Enforcement Officer (MEO)’s services in the first phase of implementation.
 This fee will be charged after the MEO report is submitted to FJC.</p>
 <p></p>
-<p>If you have difficulty paying the fees, please contact the Maintenance
-Enforcement Officer at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/contactminlaw</a>,
+<p>If you have difficulty paying the fees, please contact the MEO <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/contactminlaw</a>,
 or call 1800-2255-529*.</p>
 <p></p>
 <p>*Airtime charges may apply to calls made from mobile phones to ‘1800’
@@ -110,8 +104,9 @@ local toll-free numbers. For overseas numbers, please call +65 6225 5529.</p>
 </p>
 <p></p>
 <p>Please answer “<strong>No</strong>” to the question “<em>Will you be able to communicate in English in Court?</em>”
-in the enforcement application form submitted through <a rel="noopener noreferrer nofollow" target="_blank">https://ifams.gov.sg</a>. We will arrange
-for the conciliation to be conducted in your preferred language.</p>
+in the enforcement application form submitted through <a rel="noopener noreferrer nofollow" target="_blank">https://ifams.gov.sg</a>.
+We will arrange for the conciliation to be conducted in your preferred
+language.</p>
 <p></p>
 <p><strong>D.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MEO Reports</strong>
 </p>
@@ -125,29 +120,35 @@ for the conciliation to be conducted in your preferred language.</p>
 <p>(b)&nbsp;&nbsp; the details of the maintenance order;</p>
 <p>(c)&nbsp;&nbsp;&nbsp; the details of any previous maintenance enforcement
 order(s);</p>
-<p>(d)&nbsp;&nbsp; the details of any maintenance arrears;</p>
-<p>(e)&nbsp;&nbsp;&nbsp; the Respondent’s (and the Applicant’s, if applicable)
-income, expenses, debt, assets information;</p>
-<p>(f)&nbsp;&nbsp;&nbsp;&nbsp; the parties’ financial assistance information;</p>
-<p>(g)&nbsp;&nbsp;&nbsp; and details in relation to the MEP.</p>
+<p>(d)&nbsp;&nbsp; the details of the alleged maintenance arrears;</p>
+<p>(e)&nbsp;&nbsp;&nbsp; information on the Respondent’s (and the Applicant’s,
+if applicable) income, expenses, debt, and assets;</p>
+<p>(f)&nbsp;&nbsp;&nbsp;&nbsp; information in relation to the conciliation
+sessions, including a summary of the matters discussed at the conciliation
+sessions;</p>
+<p>(g)&nbsp;&nbsp;&nbsp; information on whether the parties are receiving,
+or are referred to, financial assistance;</p>
 <p></p>
-<p><strong>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What am I supposed to make of the MEO upon receiving it?</strong>
+<p><strong>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What am I supposed to do with the MEO report upon receiving it?</strong>
 </p>
 <p></p>
-<p>Parties can plan their points of discussion for the conciliation session
-to assist the MEO to facilitate an amicable and sustainable settlement.</p>
+<p>If you did not reach an agreement with the other party, the court would
+consider the MEO report in determining what order(s) ought to be made on
+the maintenance enforcement application. Thus, you should read the MEO
+report and understand the information in the report before the hearing.</p>
 <p></p>
-<p><strong>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I disclose the MEO Report?</strong>
+<p><strong>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I disclose the MEO Report to my friends or family members?</strong>
 </p>
 <p></p>
-<p>No.</p>
+<p>No. It is an offence under section 91S of the Women’s Charter to disclose
+the MEO report or any information in the report without the written consent
+of the other party.</p>
 <p></p>
 <p><strong>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What can I do if I disagree with the facts reflected in the MEO report?</strong>
 </p>
 <p></p>
 <p>Parties must substantiate any disagreement with supporting documents.
-Please produce the supporting documents during conciliation, or contact
-the MEO through <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/contactminlaw</a>,
+Please contact the MEO through <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/contactminlaw</a>,
 or call 1800-2255-529*&nbsp;</p>
 <p></p>
 <p>*Airtime charges may apply to calls made from mobile phones to ‘1800’
@@ -171,8 +172,8 @@ local toll-free numbers. For overseas numbers, please call +65 6225 5529.</p>
 exercise powers to conduct fact-finding to obtain information about the
 Respondent’s financial circumstances. The MEO will also update the Court
 that the Respondent failed to submit documents to the MEO. Thereafter,
-the MEO will prepare a report with the information obtained from the third
-party agencies, and submit it to the court.</p>
+the Maintenance Enforcement Officer will prepare a report with the information
+obtained from the third party agencies, and submit it to the court.</p>
 <p></p>
 <p><strong>16.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What happens if the Respondent is in the Debt Repayment Scheme or an undischarged bankrupt?</strong>
 </p>
@@ -236,4 +237,13 @@ the date of the making of the application, and that <em>A</em> has disposed
 the property to reduce <em>A</em>’s means to pay maintenance or to deprive <em>A</em>’s
 wife, former wife, incapacitated husband, incapacitated former husband
 or child, of any rights in relation to the property.</p>
-<p></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
