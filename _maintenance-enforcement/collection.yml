@@ -2,5 +2,6 @@ collections:
   maintenance-enforcement:
     output: true
     order:
+      - Contents/What types of maintenance orders does Phase 1 apply to?.md
       - Contents/Contents.md
       - Contents/.keep
