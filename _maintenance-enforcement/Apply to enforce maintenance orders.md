@@ -4,7 +4,7 @@ permalink: /apply-to-enforce-maintenance-orders/
 variant: tiptap
 description: ""
 ---
-<h3>How to apply to enforce a maintenance order?</h3>
+<h4>How to apply to enforce a maintenance order?</h4>
 <p></p>
 <p>Step 1 : visit <a href="https://ifams.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://ifams.gov.sg</a>
 </p>
@@ -14,7 +14,7 @@ order</p>
 <p>Step 4: Select the appropriate category and proceed with the application
 in accordance with the instructions on screen.</p>
 <p></p>
-<h3><u>Who</u> can apply to enforce maintenance orders?</h3>
+<h4><u>Who</u> can apply to enforce maintenance orders?</h4>
 <p></p>
 <p>1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 The person who applied for the maintenance order.</p>
