@@ -19,3 +19,5 @@ links:
     url: https://www.careers.gov.sg/
   - title: FAQ
     url: /frequently-asked-questions/
+  - title: New resource room
+    resource_room: true
