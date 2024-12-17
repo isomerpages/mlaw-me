@@ -1,5 +1,5 @@
 collections:
-  family-justice-reform-act-2023:
+  resources:
     output: true
     order:
       - Test/test 2.md
