@@ -2,8 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - Useful External Links/Family Matters.md
-      - Useful External Links/.keep
       - (Video) Role of Maintenanance Enforcement Officers.md
       - Brochures and forms.md
       - Legislation.md
