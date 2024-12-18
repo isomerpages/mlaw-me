@@ -4,10 +4,10 @@ permalink: /phased-approach/
 variant: tiptap
 description: ""
 ---
-<p>During the first phase of implementation, the Family Justice Courts will
-refer repeat maintenance enforcement applications to the MEOs. All maintenance
-enforcement applications will be referred to MEOs in the later phases of
-implementation.&nbsp;</p>
+<p>Currently, only second or subsequent maintenance enforcement applications
+made in respect of a maintenance order will be referred to the Maintenance
+Enforcement Division. At a later stage to be announced, all applications
+will be referred.</p>
 <p></p>
 <p>A maintenance order refers to an order for the provision of support (financial
 in nature) for wives, children, incapacitated husbands or parents. &nbsp;A
