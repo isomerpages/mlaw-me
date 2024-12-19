@@ -21,7 +21,7 @@ sections:
           url: https://ifams.gov.sg
         - title: SUBMIT DOCUMENTS TO MEO (accessible in January 2025)
           description: ""
-          url: https://go.gov.sg/med
+          url: https://go.gov.sg/webimage4
         - title: Brochures and forms
           description: ""
           url: /brochures-and-forms/
