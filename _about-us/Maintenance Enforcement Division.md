@@ -8,7 +8,7 @@ description: About us
 and Public Trustee’s Office. It is staffed by Maintenance Enforcement Officers
 (MEOs) who will discharge their functions and duties under the Maintenance
 Enforcement Process (MEP).&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p>The MEP was introduced under the Family Justice Reform Bill in May 2023,
 to improve the enforcement of maintenance orders by:</p>
 <p></p>
