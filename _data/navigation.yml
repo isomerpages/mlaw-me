@@ -4,10 +4,8 @@ links:
     url: /about-us/
   - title: What is maintenance?
     url: https://www.judiciary.gov.sg/family/maintenance
-  - title: Maintenance Enforcement folder
+  - title: Maintenance Enforcement
     collection: maintenance-enforcement
-  - title: Maintenance Enforcement page
-    url: /phased-approach/
   - title: E-Services
     url: /permalink
     sublinks:
