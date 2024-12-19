@@ -27,7 +27,8 @@ description: ""
 <p></p>
 </li>
 <li>
-<p>Women's Charter (Maintenance Enforcement Officer) Regulations 2024</p>
+<p>Women's Charter (Enforcement of Maintenance Orders under Division 3 of
+Part 9) Regulations 2024</p>
 <p></p>
 </li>
 </ul>
