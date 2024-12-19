@@ -2,5 +2,5 @@ collections:
   about-us:
     output: true
     order:
-      - About us.md
+      - Maintenance Enforcement Division.md
       - Maintenance Enforcement Officers.md
