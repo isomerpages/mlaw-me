@@ -131,7 +131,7 @@ language.</p>
 <p>(b)&nbsp;&nbsp; the details of the maintenance order;</p>
 <p>(c)&nbsp;&nbsp;&nbsp; the details of any previous maintenance enforcement
 order(s);</p>
-<p>(d)&nbsp;&nbsp; the details of thealleged maintenance arrears;</p>
+<p>(d)&nbsp;&nbsp; the details of the alleged maintenance arrears;</p>
 <p>(e)&nbsp;&nbsp;&nbsp; information on the Respondent’s (and the Applicant’s,
 if applicable) income, expenses, debt, and assets ;</p>
 <p>(f)&nbsp;&nbsp;&nbsp;&nbsp; Information in relation to the conciliation
