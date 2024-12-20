@@ -23,12 +23,12 @@ description: ""
 <p></p>
 </li>
 <li>
-<p><a href="https://sso.agc.gov.sg/SL-Supp/S996-2024/Published/20241219?DocDate=20241219" rel="noopener nofollow" target="_blank">Family Justice (General)(Amendment No. 2) Rules</a>
+<p><strong><a href="https://sso.agc.gov.sg/SL-Supp/S996-2024/Published/20241219?DocDate=20241219" rel="noopener nofollow" target="_blank">Family Justice (General)(Amendment No. 2) Rules</a></strong>
 </p>
 <p></p>
 </li>
 <li>
-<p><a href="https://sso.agc.gov.sg/SL-Supp/S995-2024/Published/20241219?DocDate=20241219" rel="noopener nofollow" target="_blank">Women's Charter (Enforcement of Maintenance Orders under Division 3 of Part 9) Regulations 2024</a>
+<p><strong><a href="https://sso.agc.gov.sg/SL-Supp/S995-2024/Published/20241219?DocDate=20241219" rel="noopener nofollow" target="_blank">Women's Charter (Enforcement of Maintenance Orders under Division 3 of Part 9) Regulations 2024</a></strong>
 </p>
 <p></p>
 </li>
