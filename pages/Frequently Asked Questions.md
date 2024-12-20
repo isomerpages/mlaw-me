@@ -23,9 +23,9 @@ an existing maintenance order if the respondent does not comply with it.</p>
 on Maintenance Enforcement Division’s website.</p>
 <p></p>
 <p>SMSes sent by MEOs will be aligned with the Whole-of-Government approach
-in relation to SMS communications and will be sent under “<a rel="noopener noreferrer nofollow" target="_blank">gov.sg</a>”.</p>
+in relation to SMS communications and will be sent under "gov.sg”.</p>
 <p></p>
-<p>Emails sent by MEOs will be from <a rel="noopener noreferrer nofollow" target="_blank">oneminlaw@mlaw.gov.sg</a>.</p>
+<p>Emails sent by MEOs will be from oneminlaw@mlaw.gov.sg.</p>
 <p></p>
 <p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Do I need a lawyer in the maintenance enforcement process?&nbsp;</strong>
 </p>
@@ -48,8 +48,8 @@ is made) will be charged a fee of $180 (inclusive of GST) for the MEO’s
 services in the first phase of implementation. This fee will be charged
 after the MEO report is submitted to FJC.</p>
 <p></p>
-<p>If you have difficulty paying the fees, please contact the MEO <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/contactminlaw</a>,
-or call 1800-2255-529*.</p>
+<p>If you have difficulty paying the fees, please contact the MEO through
+<a href="https://go.gov.sg/contactminlaw" rel="noopener nofollow" target="_blank">https://go.gov.sg/contactminlaw</a>, or call 1800-2255-529*.</p>
 <p></p>
 <p>*Airtime charges may apply to calls made from mobile phones to ‘1800’
 local toll-free numbers. For overseas numbers, please call +65 6225 5529.</p>
@@ -103,7 +103,7 @@ Maxwell Road, #07-11 The URA Centre (East Wing) Singapore 069118.</p>
 <p><strong>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What can I do if my conciliation session is to be conducted virtually but I have no access to the Internet?</strong>
 </p>
 <p></p>
-<p>Please contact the MEO through <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/contactminlaw</a>,
+<p>Please contact the MEO through <a href="https://go.gov.sg/contactminlaw" rel="noopener nofollow" target="_blank">https://go.gov.sg/contactminlaw</a>,
 or call 1800-2255-529* for assistance to attend the conciliation session
 via Zoom from a computer station located at 45 Maxwell Road #07-11 The
 URA Centre (East Wing) Singapore 069118.</p>
@@ -115,7 +115,7 @@ local toll-free numbers. For overseas numbers, please call +65 6225 5529.</p>
 </p>
 <p></p>
 <p>Please answer “<strong>No</strong>” to the question “<em>Will you be able to communicate in English in Court?</em>”
-in the enforcement application form submitted through <a rel="noopener noreferrer nofollow" target="_blank">https://ifams.gov.sg</a>.
+in the enforcement application form submitted through <a href="https://ifams.gov.sg" rel="noopener nofollow" target="_blank">https://ifams.gov.sg</a>.
 We will arrange for the conciliation to be conducted in your preferred
 language.</p>
 <p></p>
@@ -159,7 +159,7 @@ of the other party.</p>
 </p>
 <p></p>
 <p>Parties must substantiate any disagreement with supporting documents.
-Please contact the MEO through <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/contactminlaw</a>,
+Please contact the MEO through <a href="https://go.gov.sg/contactminlaw" rel="noopener nofollow" target="_blank">https://go.gov.sg/contactminlaw</a>,
 or call 1800-2255-529*&nbsp;</p>
 <p></p>
 <p>*Airtime charges may apply to calls made from mobile phones to ‘1800’
@@ -168,10 +168,9 @@ local toll-free numbers. For overseas numbers, please call +65 6225 5529.</p>
 <p><strong>15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How can I submit my documents to the MEO?</strong>
 </p>
 <p></p>
-<p>Please submit documents through <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/med</a>.
-Should you have any problems with the document submission, please contact
-the MEO through <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/contactminlaw</a>,
-or call 1800-2255-529*&nbsp;</p>
+<p>Please submit documents through <a href="https://go.gov.sg/med" rel="noopener nofollow" target="_blank">https://go.gov.sg/med</a>. Should you have
+any problems with the document submission, please contact the MEO through
+<a href="https://go.gov.sg/contactminlaw" rel="noopener nofollow" target="_blank">https://go.gov.sg/contactminlaw</a>, or call 1800-2255-529*&nbsp;</p>
 <p></p>
 <p>*Airtime charges may apply to calls made from mobile phones to ‘1800’
 local toll-free numbers. For overseas numbers, please call +65 6225 5529.</p>
