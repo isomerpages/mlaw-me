@@ -16,7 +16,7 @@ to improve the enforcement of maintenance orders by:</p>
 <p></p>
 <p>b) making enforcement easier when there is non-payment of maintenance;</p>
 <p></p>
-<p>c) promoting sustainable maintenance outcomes; and&nbsp;</p>
+<p>c) facilitating sustainable maintenance outcomes; and&nbsp;</p>
 <p></p>
 <p>d) increasing access to justice for applicants, especially those who are
 self-represented.</p>
