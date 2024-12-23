@@ -12,7 +12,7 @@ notification: Currently, only second or subsequent maintenance enforcement
 sections:
   - hero:
       title: Maintenance Enforcement
-      background: /images/2_Gemini_Generated_Image_myn98tmyn98tmyn9.jpg
+      background: /images/Gemini_Generated_Image_1.jpg
       button: Contact Us
       url: https://www.mlaw.gov.sg/about-us/contact-us/
       key_highlights:
