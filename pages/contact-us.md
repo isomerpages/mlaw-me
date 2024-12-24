@@ -10,8 +10,9 @@ locations:
       - Singapore 069118
     operating_hours:
       - days: Mon - Fri
-        time: "8.30am - 4.30pm "
-        description: Closed on Saturdays, Sundays and Public Holidays
+        time: 8.30am - 5.00pm
+        description: (Last queue ticket will be issued at 4:30pm). Closed on weekends
+          and public holidays.
     maps_link: ""
     title: IPTO Maintenance Enforcement
 contacts:
@@ -32,5 +33,5 @@ contacts:
           local toll-free numbers. If you are calling from overseas, please call
           +65 62255529
     title: Call Us
-feedback: ""
+feedback: https://eservices.mlaw.gov.sg/enquiry/
 ---
