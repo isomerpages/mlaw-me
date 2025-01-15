@@ -9,10 +9,10 @@ links:
   - title: E-Services
     url: /permalink
     sublinks:
-      - title: Submit documents to MEO(Jan25)
-        url: https://go.gov.sg/infographicmep
-      - title: E-Services (Jan 2025)
-        url: https://go.gov.sg/infographicmep
+      - title: Submit documents to MEO
+        url: https://eservices.mlaw.gov.sg/stream
+      - title: E-Services
+        url: https://www.mlaw.gov.sg/e-services/
   - title: FAQ
     url: /frequently-asked-questions/
   - title: Resources
