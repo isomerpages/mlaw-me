@@ -19,7 +19,7 @@ sections:
         - title: APPLY TO ENFORCE YOUR MAINTENANCE ORDER
           description: ""
           url: https://ifams.gov.sg
-        - title: SUBMIT DOCUMENTS TO MEO (accessible on 16 January 2025)
+        - title: SUBMIT DOCUMENTS TO MEO
           description: ""
           url: https://eservices.mlaw.gov.sg/stream/
         - title: Brochures and forms
