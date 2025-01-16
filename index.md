@@ -28,9 +28,7 @@ sections:
           description: ""
           url: /brochures-and-forms/
   - announcements:
-      title: Announcements
       id: announcements
-      subtitle: Add a list of announcements with dates
       announcement_items:
         - title: E-Service maintenance announcement
           date: 16 January 2025
