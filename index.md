@@ -21,7 +21,7 @@ sections:
           url: https://ifams.gov.sg
         - title: SUBMIT DOCUMENTS TO MEO
           description: ""
-          url: https://eservices.mlaw.gov.sg/stream/
+          url: https://go.gov.sg/stream
         - title: Brochures and forms
           description: ""
           url: /brochures-and-forms/
