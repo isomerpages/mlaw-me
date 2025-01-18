@@ -2,8 +2,8 @@ collections:
   resources:
     output: true
     order:
-      - Guide to using zoom for conciliation sessions.md
       - (Video) Role of Maintenanance Enforcement Officers.md
       - Brochures and forms.md
       - Legislation.md
       - Useful External Links.md
+      - Guide to using zoom for conciliation sessions.md
