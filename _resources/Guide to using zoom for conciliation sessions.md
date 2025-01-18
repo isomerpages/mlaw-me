@@ -11,11 +11,11 @@ description: ""
 <p></p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A video conference conciliation
 session conducted on the Zoom platform is a Zoom meeting. You can download
-Zoom at <a rel="noopener noreferrer nofollow" target="_blank">https://zoom.us/</a>.
+Zoom at <a href="https://zoom.us/" rel="noopener nofollow" target="_blank">https://zoom.us/</a>.
 The software is free and can be installed on your mobile phone, iPad, desktops,
 laptops and notebook computers and from Google Play Store (for Android
 devices) or from App Store (for iOS devices). For further information on
-downloading Zoom, please go to <a rel="noopener noreferrer nofollow" target="_blank">https://support.zoom.us/hc/en-us/articles/201362233</a>.</p>
+downloading Zoom, please go to <a href="https://support.zoom.com/hc" rel="noopener nofollow" target="_blank">https://support.zoom.com/hc</a>.</p>
 <p></p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You do not need to pay to use Zoom
 to attend a conciliation session. You also do not need to create any Zoom
@@ -61,7 +61,7 @@ you will be kept in a Waiting Room. You will see the message, “Please wait,
 the meeting host will let you in soon”.</p>
 <p></p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For more information on using
-Zoom to joining a meeting, please go to: <a rel="noopener noreferrer nofollow" target="_blank">https://support.zoom.us/hc/en-us/articles/201362193-How-Do-I-Join-A-Meeting</a>.</p>
+Zoom to joining a meeting, please go to: <a href="https://support.zoom.us/hc/en-us/articles/201362193-How-Do-I-Join-A-Meeting" rel="noopener nofollow" target="_blank">https://support.zoom.us/hc/en-us/articles/201362193-How-Do-I-Join-A-Meeting</a>.</p>
 <p></p>
 <p><strong>Conduct during the video conference conciliation session</strong>
 </p>
