@@ -4,8 +4,6 @@ permalink: /guide-to-using-zoom-for-conciliation-sessions/
 variant: tiptap
 description: ""
 ---
-<h4><strong>GUIDE TO USING ZOOM FOR CONCILIATION SESSIONS</strong></h4>
-<p></p>
 <p><strong>Getting started with Zoom</strong>
 </p>
 <p></p>
