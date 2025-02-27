@@ -36,3 +36,14 @@ conciliation sessions with effect from 16 January 2025:</p>
 <p>(f) Mr Chong Kum Wah Raymond</p>
 <p>(g) Mr Kelly Yap</p>
 <p></p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In addition, the following officers are
+appointed as Maintenance Enforcement Officers with effect from 17 March
+2025:</p>
+<p></p>
+<p>(a) Ms Tan Hui Ping, Andrea</p>
+<p>(b) Ms Nadiah Farhanah Binte Mohamed</p>
+<p>(c) Mr Muhammad Muhsin Bin Abdul Jalil</p>
+<p></p>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Indaraty Binte Yunus is appointed
+as a Maintenance Enforcement Officer with effect from 1 April 2025.</p>
+<p></p>
