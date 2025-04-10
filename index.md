@@ -29,11 +29,11 @@ sections:
       id: announcements
       announcement_items:
         - title: E-Service maintenance announcement
-          date: 17 January 2025
+          date: 10 April 2025
           announcement: "If you wish to submit documents to the MEO via our e-services,
             please note that the portal is inaccessible due to scheduled
-            maintenance on: every Friday from 6pm to 11.59pm; and every first
-            Saturday of the month from 2pm to the following Monday, 8am."
+            maintenance on: every Friday from 6 pm to 11.59 pm; and every first
+            Saturday of the month from 12 am to Sunday, 11.59 pm."
           link_text: ""
           link_url: ""
 ---
