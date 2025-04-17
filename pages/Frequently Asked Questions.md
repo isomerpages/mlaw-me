@@ -48,11 +48,8 @@ is made) will be charged a fee of $180 (inclusive of GST) for the MEO’s
 services in the first phase of implementation. This fee will be charged
 after the MEO report is submitted to FJC.</p>
 <p></p>
-<p>If you have difficulty paying the fees, please contact the MEO through
-<a href="https://go.gov.sg/contactminlaw" rel="noopener nofollow" target="_blank">https://go.gov.sg/contactminlaw</a>, or call 1800-2255-529*.</p>
-<p></p>
-<p>*Airtime charges may apply to calls made from mobile phones to ‘1800’
-local toll-free numbers. For overseas numbers, please call +65 6225 5529.</p>
+<p>If you have difficulty paying the fees, please make a request with supporting
+documents at <a href="https://go.gov.sg/meofees" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/meofees</a>.</p>
 <p></p>
 <p><strong>C.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conciliation</strong>
 </p>
