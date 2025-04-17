@@ -2,10 +2,10 @@ collections:
   maintenance-enforcement:
     output: true
     order:
-      - MEO fees and applicable interest rates.md
       - Phased approach.md
       - What types of maintenance orders does Phase 1 apply to?.md
       - What maintenance enforcement applications does Phase 1 apply to?.md
       - Apply to enforce maintenance orders.md
       - The Maintenance Enforcement Process.md
       - What is Conciliation?.md
+      - MEO fees and applicable interest rates.md
