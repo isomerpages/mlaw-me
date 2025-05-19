@@ -16,13 +16,12 @@ from 16 January 2025:</p>
 <p>(b) Ms Yap Cai Ping</p>
 <p>(c) Ms Goh Xin Hui</p>
 <p>(d) Mr Nur Hidayat Bin Sa'at</p>
-<p>(e) Ms Yvonne Kua Puay Tze</p>
-<p>(f) Ms Teo Yen Hui, Grace</p>
-<p>(g) Ms Thangiah Vasanthie</p>
-<p>(h) Ms Nur Khalishah Binte Roslan</p>
-<p>(i) Ms Lim Hui Min Joyce</p>
-<p>(j) Ms Ng Simin Serene</p>
-<p>(k) Ms Nila Kalavathy Nadarajah</p>
+<p>(e) Ms Teo Yen Hui, Grace</p>
+<p>(f) Ms Thangiah Vasanthie</p>
+<p>(g) Ms Nur Khalishah Binte Roslan</p>
+<p>(h) Ms Lim Hui Min Joyce</p>
+<p>(i) Ms Ng Simin Serene</p>
+<p>(j) Ms Nila Kalavathy Nadarajah</p>
 <p></p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Minister for Law has also appointed the
 following persons as maintenance enforcement officers to assist with the
