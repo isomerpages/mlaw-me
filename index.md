@@ -5,7 +5,12 @@ title: Maintenance Enforcement Division, a division of the Insolvency & Public
 description: Office of the Maintenance Enforcement Officers
 image: /images/isomer-logo.svg
 permalink: /
-notification: Currently, only second or subsequent maintenance enforcement
+notification: Government officials will <b>NEVER</b> ask you to transfer money
+  or disclose bank log-in details over a phone call. Call the 24/7 ScamShield
+  Helpline at 1799 if you are unsure if something is a scam. For more
+  information, visit <a target="_blank"
+  href="https://www.scamshield.gov.sg">www.scamshield.gov.sg</a>.
+  <br><br>Currently, only second or subsequent maintenance enforcement
   applications made in respect of a maintenance order will be referred to the
   Maintenance Enforcement Division. At a later stage to be announced, all
   applications will be referred.
