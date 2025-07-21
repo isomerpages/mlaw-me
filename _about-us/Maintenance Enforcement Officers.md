@@ -46,3 +46,7 @@ appointed as Maintenance Enforcement Officers with effect from 17 March
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Indaraty Binte Yunus is appointed
 as a Maintenance Enforcement Officer with effect from 1 April 2025.</p>
 <p></p>
+<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Muhammad Firdaus Habib Mohamed is
+appointed as a Maintenance Enforcement Officer with effect from 21 July
+2025.</p>
+<p></p>
