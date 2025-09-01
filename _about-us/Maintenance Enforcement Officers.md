@@ -50,3 +50,10 @@ as a Maintenance Enforcement Officer with effect from 1 April 2025.</p>
 appointed as a Maintenance Enforcement Officer with effect from 21 July
 2025.</p>
 <p></p>
+<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The following officers are appointed
+as Maintenance Enforcement Officers with effect from 1 September 2025:</p>
+<p></p>
+<p>(a) Ms Istyana Putri Ibrahim</p>
+<p>(b) Mr Lee Kam Hoong</p>
+<p>(c) Ms Nur Liyana Farzana Mohamed Idris</p>
+<p></p>
