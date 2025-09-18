@@ -4,15 +4,24 @@ permalink: /phased-approach/
 variant: tiptap
 description: ""
 ---
-<p>Currently, only second or subsequent maintenance enforcement applications
-made in respect of a maintenance order will be referred to the Maintenance
-Enforcement Division. At a later stage to be announced, all applications
-will be referred.</p>
+<p>From <strong>1 October 2025</strong>, the Maintenance Enforcement Division
+(MED) handles:</p>
+<ul>
+<li>
+<p>Repeat applications where the Applicant has previously enforced the same
+order.</p>
+</li>
+<li>
+<p>First-time applications with arrears of $10,000 or more.</p>
+</li>
+</ul>
+<p>A maintenance order refers to an order for financial support for wives,
+children, incapacitated husbands, or parents. A maintenance enforcement
+application refers to an application to enforce an existing maintenance
+order if the respondent does not comply with it.</p>
+<p>👉 For detailed conditions under Phase 2A, click <a href="https://med.mlaw.gov.sg/what-types-of-maintenance-orders-does-phase-2A-apply-to/" rel="noopener nofollow" target="_blank">here</a>
+</p>
 <p></p>
-<p>A maintenance order refers to an order for the provision of support (financial
-in nature) for wives, children, incapacitated husbands or parents. &nbsp;A
-maintenance enforcement application refers to an application to enforce
-an existing maintenance order if the respondent does not comply with it.
-Click <a href="https://www.judiciary.gov.sg/family/maintenance" rel="noopener nofollow" target="_blank">here</a>&nbsp;for
+<p>👉 Click <a href="https://www.judiciary.gov.sg/family/maintenance" rel="noopener nofollow" target="_blank">here</a>&nbsp;for
 more information relating to maintenance.</p>
 <p></p>
