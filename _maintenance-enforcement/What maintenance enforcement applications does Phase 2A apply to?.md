@@ -4,63 +4,24 @@ permalink: /what-maintenance-enforcement-applications-does-phase-1-apply-to/
 variant: tiptap
 description: ""
 ---
-<p><strong>Phase 2A starts on 1 October 2025</strong>
-</p>
-<p>Phase 2A will apply to two types of maintenance enforcement cases where
-unpaid maintenance amounts to $10,000 or more:</p>
-<p>&nbsp;</p>
-<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Repeat cases</strong>
-</p>
-<p>These are cases where:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>The Applicant have previously applied to enforce the same maintenance
-order, and that previous application has been completed (including any
-appeals)</p>
-</li>
-<li>
-<p>The Applicant do not currently have another enforcement application pending
-for the same order</p>
-</li>
-</ul>
-<p>&nbsp;</p>
-<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First-time cases with high arrears</strong>
-</p>
-<p>These are cases where:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>The Applicant have never applied to enforce this particular maintenance
-order before</p>
-</li>
-<li>
-<p>The Applicant do not currently have any enforcement application pending
-for this order</p>
-</li>
-<li>
-<p>Any appeals against the original maintenance order have been completed</p>
-</li>
-</ul>
-<p>&nbsp;</p>
-<p><strong>What maintenance orders are covered?</strong>
-</p>
-<p>Maintenance orders made under:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Women's Charter 1961</p>
-</li>
-<li>
-<p>Guardianship of Infants Act 1934</p>
-</li>
-<li>
-<p>Administration of Muslim Law Act 1966</p>
-</li>
-<li>
-<p>Maintenance of Parents Act 1995</p>
-</li>
-</ul>
-<p>&nbsp;</p>
-<p><strong>What's next?</strong>
-</p>
-<p>The Maintenance Enforcement Process (MEP) will be expanded to cover more
-types of maintenance enforcement cases in future phases.</p>
+<p>Phase 2A will take effect on 1 October 2025, and will include first-time
+maintenance enforcement applications, applied on or after 1 October 2025,
+where the maintenance arrears under the maintenance order are $10,000.00
+or more.</p>
+<p></p>
+<p>Repeat maintenance enforcement applications will continue to be referred
+to the Maintenance Enforcement Officer. An eligible repeat maintenance
+enforcement application is an application to enforce a maintenance order
+(made under the Women’s Charter 1961, the Guardianship of Infants Act 1934,
+the Administration of Muslim Law Act 1966, and the Maintenance of Parents
+Act 1995) in respect of which:</p>
+<p></p>
+<p>(a) there is at least one concluded maintenance enforcement application
+(i.e. the application and any appeal have been disposed of, and/or the
+time for appeal has lapsed); and</p>
+<p></p>
+<p>(b) there is no pending maintenance enforcement application.</p>
+<p></p>
+<p>The MEP will be expanded to cover more categories of maintenance enforcement
+applications in a later phase.</p>
 <p></p>
