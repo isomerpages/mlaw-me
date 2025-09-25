@@ -18,7 +18,8 @@ children, incapacitated husbands, or parents. A maintenance enforcement
 application refers to an application to enforce an existing maintenance
 order if the respondent does not comply with it.</p>
 <p></p>
-<p>👉 For detailed conditions under Phase 2A, click <a href="https://med.mlaw.gov.sg/what-types-of-maintenance-orders-does-phase-2a-apply-to/" rel="noopener nofollow" target="_blank">here.</a>
+<p>👉 For detailed conditions under Phase 2A, click <a href="/what-maintenance-enforcement-applications-does-phase-2a-apply-to/" rel="noopener nofollow" target="_blank">here</a>
+<a href="https://med.mlaw.gov.sg/what-types-of-maintenance-orders-does-phase-2a-apply-to/" rel="noopener nofollow" target="_blank">.</a>
 </p>
 <p></p>
 <p>👉 Click <a href="https://www.judiciary.gov.sg/family/maintenance" rel="noopener nofollow" target="_blank">here</a>&nbsp;for
