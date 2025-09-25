@@ -7,18 +7,11 @@ description: ""
 <p>Commencing <strong>1 October 2025</strong>, the court may refer the following
 Maintenance Enforcement Applications to the Maintenance Enforcement Officer:</p>
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p>First-time applications to enforce a maintenance order for arrears of
-at least $10,000; and; and</p>
-</li>
-</ul>
+<p>(a) First-time applications to enforce a maintenance order for arrears
+of at least $10,000; and</p>
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Repeat maintenance enforcement applications to enforce a maintenance order.</p>
-</li>
-</ul>
+<p>(b) Repeat maintenance enforcement applications to enforce a maintenance
+order.</p>
 <p></p>
 <p>A maintenance order refers to an order for financial support for wives,
 children, incapacitated husbands, or parents. A maintenance enforcement
