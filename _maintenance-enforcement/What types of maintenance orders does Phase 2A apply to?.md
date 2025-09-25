@@ -23,16 +23,9 @@ MEO under the new maintenance enforcement process.</p>
 Enforcement) Act 1975 will not be referred to the MEOs in Phase 2A. These
 refer to:</p>
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Maintenance orders made in Singapore to be enforced in a reciprocating
+<p>(a) Maintenance orders made in Singapore to be enforced in a reciprocating
 country; and</p>
-</li>
-</ul>
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Maintenance orders made in reciprocating countries to be enforced in Singapore.</p>
-</li>
-</ul>
+<p>(b) Maintenance orders made in reciprocating countries to be enforced
+in Singapore.</p>
 <p></p>
