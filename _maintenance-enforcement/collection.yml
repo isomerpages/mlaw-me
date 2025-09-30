@@ -3,7 +3,8 @@ collections:
     output: true
     order:
       - Phased approach.md
-      - What types of maintenance orders does Phase 2A apply to?.md
+      - Does my maintenance enforcement application fall under the new
+        Maintenance Enforcement Process?.md
       - What maintenance enforcement applications does Phase 2A apply to?.md
       - Apply to enforce maintenance orders.md
       - The Maintenance Enforcement Process.md
