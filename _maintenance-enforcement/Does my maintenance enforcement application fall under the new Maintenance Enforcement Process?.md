@@ -15,8 +15,9 @@ does not comply with it.</p>
 <p></p>
 </li>
 <li>
-<p>In order for the new MEP to apply, (a) your <strong>maintenance enforcement application</strong> must
-be to enforce the applicable type of <strong>maintenance order</strong>; <u>and</u> (b)
+<p>In order for the new maintenance enforcement process ("MEP") to apply,
+(a) your <strong>maintenance enforcement application</strong> must be to
+enforce the applicable type of <strong>maintenance order</strong>; <u>and</u> (b)
 your <strong>maintenance enforcement application</strong> must satisfy certain
 criteria.</p>
 <p></p>
@@ -27,7 +28,7 @@ criteria.</p>
 <li>
 <p>Only <strong>maintenance enforcement applications</strong> to enforce the
 following types of <strong>maintenance order</strong> can be referred to
-a Maintenance Enforcement Officer (MEO) under the new MEP:</p>
+a Maintenance Enforcement Officer ("MEO") under the new MEP:</p>
 <p></p>
 <p><a href="/women-s-charter-1961/" rel="noopener noreferrer nofollow" target="_blank">Women's Charter 1961</a>
 </p>
@@ -47,10 +48,10 @@ a Maintenance Enforcement Officer (MEO) under the new MEP:</p>
 Orders (Reciprocal Enforcement) Act 1975 will not be presently referred
 to the MEO. These refer to:</p>
 <p></p>
-<p>(a) Maintenance orders made in Singapore to be enforced in a reciprocating
+<p>(a) maintenance orders made in Singapore to be enforced in a reciprocating
 country; and</p>
 <p></p>
-<p>(b) Maintenance orders made in reciprocating countries to be enforced
+<p>(b) maintenance orders made in reciprocating countries to be enforced
 in Singapore.</p>
 <p></p>
 <p><strong>What kind of maintenance enforcement orders does the MEP apply to?</strong>
