@@ -1,0 +1,21 @@
+logo: /images/MinLaw_logo.png
+links:
+  - title: About Us
+    url: /about-us/
+  - title: Maintenance
+    url: https://www.judiciary.gov.sg/family/maintenance
+  - title: Maintenance Enforcement
+    collection: maintenance-enforcement
+  - title: E-Services
+    url: /permalink
+    sublinks:
+      - title: Submit documents to MEO
+        url: https://go.gov.sg/stream
+  - title: FAQ
+    url: /frequently-asked-questions/
+  - title: Resources
+    collection: resources
+  - title: News
+    url: https://www.mlaw.gov.sg/news/
+  - title: Careers
+    url: https://www.careers.gov.sg/

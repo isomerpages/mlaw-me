@@ -1,0 +1,10 @@
+collections:
+  maintenance-enforcement:
+    output: true
+    order:
+      - Does my maintenance enforcement application fall under the new
+        Maintenance Enforcement Process?.md
+      - Apply to enforce maintenance orders.md
+      - The Maintenance Enforcement Process.md
+      - What is Conciliation?.md
+      - MEO fees and applicable interest rates.md
