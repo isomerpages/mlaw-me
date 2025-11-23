@@ -13,15 +13,14 @@ the following officers as maintenance enforcement officers with effect
 from 16 January 2025:</p>
 <p></p>
 <p>(a) Mr Lim Jian Yi</p>
-<p>(b) Ms Yap Cai Ping</p>
-<p>(c) Ms Goh Xin Hui</p>
-<p>(d) Mr Nur Hidayat Bin Sa'at</p>
-<p>(e) Ms Teo Yen Hui, Grace</p>
-<p>(f) Ms Thangiah Vasanthie</p>
-<p>(g) Ms Nur Khalishah Binte Roslan</p>
-<p>(h) Ms Lim Hui Min Joyce</p>
-<p>(i) Ms Ng Simin Serene</p>
-<p>(j) Ms Nila Kalavathy Nadarajah</p>
+<p>(b) Ms Goh Xin Hui</p>
+<p>(c) Mr Hidayat Saat</p>
+<p>(d) Ms Teo Yen Hui, Grace</p>
+<p>(e) Ms Thangiah Vasanthie</p>
+<p>(f) Ms Nur Khalishah Binte Roslan</p>
+<p>(g) Ms Lim Hui Min Joyce</p>
+<p>(h) Ms Ng Simin Serene</p>
+<p>(i) Ms Nila Kalavathy Nadarajah</p>
 <p></p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Minister for Law has also appointed the
 following persons as maintenance enforcement officers to assist with the
@@ -56,4 +55,10 @@ as Maintenance Enforcement Officers with effect from 1 September 2025:</p>
 <p>(a) Ms Istyana Putri Ibrahim</p>
 <p>(b) Mr Lee Kam Hoong</p>
 <p>(c) Ms Nur Liyana Farzana Mohamed Idris</p>
+<p></p>
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Han Shurou is appointed as a Maintenance
+Enforcement Officer with effect from 13 September 2025.</p>
+<p></p>
+<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Erahilwana Binte Abdul Kifli is appointed
+as a Maintenance Enforcement Officer with effect from 13 October 2025.</p>
 <p></p>
