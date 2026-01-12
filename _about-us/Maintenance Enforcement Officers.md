@@ -80,7 +80,7 @@ Enforcement Officers with effect from 1 January 2026:</p>
 <p>(o) Mr Seet Pek Hian Harold</p>
 <p>(p) Mr Stephen Poh Yong Meng</p>
 <p>(q) Ms Tan Yanying</p>
-<p>(r) Ms Teo Beng Ghee, Jimmy</p>
+<p>(r) Mr Teo Beng Ghee, Jimmy</p>
 <p>(s) Ms Teo Lin Lee</p>
 <p>(t) Ms Viviene Kaur Sandhu</p>
 <p></p>
