@@ -60,8 +60,9 @@ Enforcement Officer with effect from 13 September 2025.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Erahilwana Binte Abdul Kifli is appointed
 as a Maintenance Enforcement Officer with effect from 13 October 2025.</p>
 <p></p>
-<p>10.&nbsp;&nbsp;&nbsp;&nbsp;The following officers are appointed as Maintenance
-Enforcement Officers with effect from 1 January 2026:</p>
+<p>10.&nbsp;&nbsp;&nbsp;&nbsp;The following persons are appointed as Maintenance
+Enforcement Officers to assist with the conciliation sessions with effect
+from 1 January 2026:</p>
 <p></p>
 <p>(a) Mr Alexander Santhosarajan S/O Singhamuthu</p>
 <p>(b) Ms Chen Yixin Edith</p>
