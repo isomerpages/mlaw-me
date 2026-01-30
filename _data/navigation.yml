@@ -7,7 +7,7 @@ links:
   - title: Maintenance Enforcement
     collection: maintenance-enforcement
   - title: E-Services
-    url: /permalink
+    url: https://www.mlaw.gov.sg/e-services/
     sublinks:
       - title: Submit documents to MEO
         url: https://go.gov.sg/stream
