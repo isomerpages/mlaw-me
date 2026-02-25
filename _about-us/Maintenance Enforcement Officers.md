@@ -85,3 +85,11 @@ from 1 January 2026:</p>
 <p>(s) Ms Teo Lin Lee</p>
 <p>(t) Ms Viviene Kaur Sandhu</p>
 <p></p>
+<p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Nur Anisa Rosli is appointed as a
+Maintenance Enforcement Officer with effect from 9 February 2026.</p>
+<p></p>
+<p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The following officers are appointed
+as Maintenance Enforcement Officers with effect from 23 February 2026:</p>
+<p></p>
+<p>(a) Mr Kee Peng Siang</p>
+<p>(b) Mr Ren Kai</p>
