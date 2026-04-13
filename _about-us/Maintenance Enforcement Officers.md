@@ -58,3 +58,9 @@ as Maintenance Enforcement Officers with effect from 23 February 2026:</p>
 <p></p>
 <p>(a) Mr Kee Peng Siang</p>
 <p>(b) Mr Ren Kai</p>
+<p></p>
+<p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Vethavalli Thurerajoo is appointed
+as a Maintenance Enforcement Officer with effect from 1 April 2026.</p>
+<p></p>
+<p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Emmanuel Henry is appointed as a
+Maintenance Enforcement Officer with effect from 6 April 2026.</p>
