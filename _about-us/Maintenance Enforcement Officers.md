@@ -4,9 +4,9 @@ permalink: /maintenance-enforcement-officers/
 variant: tiptap
 description: ""
 ---
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Minister for Law has appointed Mr Ng
-Yong Kiat Francis to be the chief maintenance enforcement officer with
-effect from 16 January 2025.</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Minister for Law has appointed Mr Leong
+Kwang Ian to be the chief maintenance enforcement officer with effect from
+1 June 2026.</p>
 <p></p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In addition, Minister for Law has appointed
 the following officers as maintenance enforcement officers with effect
@@ -64,3 +64,6 @@ as a Maintenance Enforcement Officer with effect from 1 April 2026.</p>
 <p></p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Emmanuel Henry is appointed as a
 Maintenance Enforcement Officer with effect from 6 April 2026.</p>
+<p></p>
+<p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Marcus Fong is appointed as a Maintenance
+Enforcement Officer with effect from 25 May 2026.</p>
