@@ -18,9 +18,8 @@ from 16 January 2025:</p>
 <p>(d) Ms Teo Yen Hui, Grace</p>
 <p>(e) Ms Thangiah Vasanthie</p>
 <p>(f) Ms Nur Khalishah Binte Roslan</p>
-<p>(g) Ms Lim Hui Min Joyce</p>
-<p>(h) Ms Ng Simin Serene</p>
-<p>(i) Ms Nila Kalavathy Nadarajah</p>
+<p>(g) Ms Ng Simin Serene</p>
+<p>(h) Ms Nila Kalavathy Nadarajah</p>
 <p></p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In addition, the following officers are
 appointed as Maintenance Enforcement Officers with effect from 17 March
