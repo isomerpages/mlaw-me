@@ -14,7 +14,7 @@ notification: Government officials will <b>NEVER</b> ask you to transfer money
   July to 31 August 2026. The study does not require participants to transfer
   money or disclose any bank details. If in doubt, call us at 1800 2255 529.
   Refer to our <a target="_blank"
-  href="FAQs">https://ask.gov.sg/mlaw?topic=Website+usability+study</a> for more
+  href="https://ask.gov.sg/mlaw?topic=Website+usability+study">FAQs</a> for more
   information.
 sections:
   - hero:
