@@ -9,11 +9,11 @@ notification: Government officials will <b>NEVER</b> ask you to transfer money
   or disclose bank log-in details over a phone call. Call the 24/7 ScamShield
   Helpline at 1799 if you are unsure if something is a scam. For more
   information, visit <a target="_blank"
-  href="https://www.scamshield.gov.sg">www.scamshield.gov.sg</a>.
-  <br><br>Currently, only second or subsequent maintenance enforcement
-  applications made in respect of a maintenance order will be referred to the
-  Maintenance Enforcement Division. At a later stage to be announced, all
-  applications will be referred.
+  href="https://www.scamshield.gov.sg">www.scamshield.gov.sg</a>. <br><br> The
+  Ministry of Law is inviting participants for a website usability study from 1
+  July to 31 August 2026. The study does not require participants to transfer
+  money or disclose any bank details. If in doubt, call us at 1800 2255 529.
+  Refer to our FAQs for more information.
 sections:
   - hero:
       title: Maintenance Enforcement
