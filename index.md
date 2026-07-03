@@ -13,7 +13,9 @@ notification: Government officials will <b>NEVER</b> ask you to transfer money
   Ministry of Law is inviting participants for a website usability study from 1
   July to 31 August 2026. The study does not require participants to transfer
   money or disclose any bank details. If in doubt, call us at 1800 2255 529.
-  Refer to our FAQs for more information.
+  Refer to our <a target="_blank"
+  href="FAQs">https://ask.gov.sg/mlaw?topic=Website+usability+study</a> for more
+  information.
 sections:
   - hero:
       title: Maintenance Enforcement
