@@ -66,3 +66,10 @@ Maintenance Enforcement Officer with effect from 6 April 2026.</p>
 <p></p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Marcus Fong is appointed as a Maintenance
 Enforcement Officer with effect from 25 May 2026.</p>
+<p></p>
+<p>14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The following officers are appointed
+as Maintenance Enforcement Officers with effect from 6 July 2026:</p>
+<p></p>
+<p>(a) Ms Phua Yanyu</p>
+<p>(b) Mr Eric Chan</p>
+<p>(c) Mr Jason Mak.</p>
