@@ -71,5 +71,8 @@ Enforcement Officer with effect from 25 May 2026.</p>
 as Maintenance Enforcement Officers with effect from 6 July 2026:</p>
 <p></p>
 <p>(a) Ms Phua Yanyu</p>
-<p>(b) Mr Eric Chan</p>
-<p>(c) Mr Jason Mak.</p>
+<p>(b) Mr Chan Reuy Feng, Eric</p>
+<p>(c) Mr Mak Wei Ting, Jason</p>
+<p></p>
+<p>15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Tan Wei Wen is appointed as a Maintenance
+Enforcement Officer with effect from 13 July 2026.</p>
