@@ -76,3 +76,9 @@ as Maintenance Enforcement Officers with effect from 6 July 2026:</p>
 <p></p>
 <p>15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Tan Wei Wen is appointed as a Maintenance
 Enforcement Officer with effect from 13 July 2026.</p>
+<p></p>
+<p>16.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The following officers are appointed
+as Maintenance Enforcement Officers with effect from 7 September 2026:</p>
+<p></p>
+<p>(a) Ms Kuraishia Binte Pakir Maideen</p>
+<p>(b) Mr Thien Boon Chung</p>
