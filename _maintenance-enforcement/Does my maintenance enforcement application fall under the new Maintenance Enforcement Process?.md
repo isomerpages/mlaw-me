@@ -59,22 +59,12 @@ in Singapore.</p>
 <p></p>
 </li>
 <li>
-<p>The court may refer a <strong>maintenance enforcement application</strong> to
-a Maintenance Enforcement Officer (MEO) if it is either:</p>
+<p>With effect from 1 July 2026, the court <strong>may</strong> refer all maintenance
+enforcement applications to a Maintenance Enforcement Officer (MEO). The
+discretion to refer cases to an MEO rests with the court.</p>
 <p></p>
-<p>(a) a first-time application to enforce a <strong>maintenance order</strong> for
-arrears of at least $10,000; or</p>
-<p></p>
-<p>(b) a second or subsequent maintenance enforcement applications to enforce
-a <strong>maintenance order</strong>.</p>
-<p></p>
-</li>
-<li>
-<p>The MEP will be expanded to apply to more categories of <strong>maintenance enforcement applications</strong> in
-later phases.</p>
 </li>
 </ol>
-<p></p>
 <p>👉 Click&nbsp;<a href="https://www.judiciary.gov.sg/family/maintenance" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 more information relating to maintenance.</p>
 <p></p>
