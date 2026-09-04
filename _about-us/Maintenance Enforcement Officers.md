@@ -81,4 +81,3 @@ Enforcement Officer with effect from 13 July 2026.</p>
 as Maintenance Enforcement Officers with effect from 7 September 2026:</p>
 <p></p>
 <p>(a) Ms Kuraishia Binte Pakir Maideen</p>
-<p>(b) Mr Thien Boon Chung</p>
