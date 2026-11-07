@@ -10,8 +10,10 @@ notification: Government officials will <b>NEVER</b> ask you to transfer money
   Helpline at 1799 if you are unsure if something is a scam. For more
   information, visit <a target="_blank"
   href="https://www.scamshield.gov.sg">www.scamshield.gov.sg</a>.<br><br>Expect
-  a better experience when our new website goes live on 30 November 2026. Find
-  out more <a rel="noopener noreferrer" target="_blank"
+  a better experience when our new website goes live on 30 November 2026.
+  Information on this website will be moved to <a rel="noopener noreferrer"
+  target="_blank" href="https://www.mlaw.gov.sg">www.mlaw.gov.sg</a>. Find out
+  more <a rel="noopener noreferrer" target="_blank"
   href="https://www.mlaw.gov.sg/upcoming-changes-to-the-minlaw-website/">here</a>.
 sections:
   - hero:
